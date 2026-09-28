@@ -1,79 +1,79 @@
-city,county,rate_2019_pct,wage_cap,evidence_class,only_county,tax_existed_2019,rate_2019_evidence,rate_2019_quote,cap_2019_evidence
-Florence,Boone,2.0,132900.0,direct_2019,,yes,verified_2019,"NFC TAXES 19-02 (published 2019-02-13) and 19-37 (published 2019-12-31): ""Florence ... 2.00 2 ... 2.00 2 ... DS""; footnote ""Maximum withholding wage base of $132,900""",verified: NFC 2019 lists caps only for Covington/Florence
-Union,Boone,0.0,,pilot_verified,,no,verified_2019,,verified
-Walton,Boone,0.0,,pilot_verified,,no,verified_2019,,verified
-Bromley,Kenton,1.0,,pilot_verified,,yes,verified_2019,,verified
-Covington,Kenton,2.45,132900.0,direct_2019,,yes,verified_2019,"NFC TAXES 19-02 (published 2019-02-13) and 19-37 (published 2019-12-31): ""Covington ... 2.45 1 ... 2.45 1 ... DS""; footnote ""Maximum withholding wage base of $132,900""",verified: NFC 2019 lists caps only for Covington/Florence
-Crescent Springs,Kenton,1.0,,pilot_verified,,yes,verified_2019,,verified
-Crestview Hills,Kenton,1.15,132900.0,pilot_verified,,yes,verified_2019,,verified
-Edgewood,Kenton,1.0,,pilot_verified,,yes,verified_2019,,verified
-Elsmere,Kenton,1.25,,pilot_verified,,yes,verified_2019,,verified
-Erlanger,Kenton,1.5,,pilot_verified,,yes,verified_2019,,verified
-Fort Mitchell,Kenton,1.25,,pilot_verified,,yes,verified_2019,,verified
-Fort Wright,Kenton,1.15,132900.0,pilot_verified,,yes,verified_2019,,verified
-Independence,Kenton,1.25,,pilot_verified,,yes,verified_2019,,verified
-Lakeside Park,Kenton,1.0,,pilot_verified,,yes,verified_2019,,verified
-Ludlow,Kenton,1.5,,pilot_verified,,yes,verified_2019,,verified
-Park Hills,Kenton,1.5,50000.0,pilot_verified,,yes,verified_2019,,verified
-Ryland Heights,Kenton,1.0,,pilot_verified,,yes,verified_2019,,verified
-Taylor Mill,Kenton,2.0,,pilot_verified,,yes,verified_2019,,verified
-Villa Hills,Kenton,1.5,,pilot_verified,,yes,verified_2019,,verified
-Fort Thomas,Campbell,1.25,,pilot_verified,,yes,verified_2019,,verified
-Alexandria,Campbell,1.5,132900.0,pilot_verified,,yes,verified_2019,,verified
-Cold Spring,Campbell,1.0,132900.0,pilot_verified,,yes,verified_2019,,verified
-Southgate,Campbell,2.5,,pilot_verified,,yes,verified_2019,,verified
-Highland Heights,Campbell,1.0,100000.0,pilot_verified,,yes,verified_2019,,verified
-Newport,Campbell,2.5,132900.0,pilot_verified,,yes,carried_later_rate,,unknown
-Bellevue,Campbell,2.5,,pilot_verified,,yes,carried_later_rate,,unknown
-Dayton,Campbell,2.0,,pilot_verified,,yes,verified_2019,,verified
-Melbourne,Campbell,0.0,,pilot_verified,,no,verified_2019,,verified
-Woodlawn,Campbell,0.0,,pilot_verified,,no,verified_2019,,verified
-Dry Ridge,Grant,1.25,,pilot_verified,,yes,verified_2019,,verified
-Williamstown,Grant,0.0,,pilot_verified,,no,verified_2019,,verified
-Falmouth,Pendleton,0.0,,pilot_verified,,no,verified_2019,,verified
-Elizabethtown,Hardin,1.35,,direct_2019,,yes,verified_2019,"Owensboro Times 2019-05-17: ""According to the state government's website ... Hardin County/Elizabethtown (1.35 percent)"" (secondary)",unknown
-La Grange,Oldham,1.0,,pilot_bridge,,yes,carried_later_rate,,unknown
-Maysville,Mason,1.99,,pilot_bridge,,yes,carried_later_rate,,unknown
-Jeffersontown,Jefferson,1.0,,direct_2019,,yes,verified_2019,"captured 2019-07-16: ""Tax Rate 1% of gross wage. No exemptions. No minimum or maximum amount.""; FAQ captured 2019-08-20: ""An employee earning a wage within the City of Jeffersontown is subject to the Jeffersontown occupational tax and the Louisville Metro occupational tax.""","verified: ""No minimum or maximum amount"" (2019 capture)"
-Bowling Green,Warren,1.85,,direct_2019,,yes,verified_2019,"NFC TAXES 19-02 (published 2019-02-13) and 19-37 (published 2019-12-31): ""Bowling Green ... 1.85 ... 1.85 ... DS""; bgky.org captured 2019-01-19: ""The occupational license tax rate is 1.85%.""; Warren County 2019 description: ""City of Bowling Green Occupational Tax-1.85%""",verified: NFC 2019 lists caps only for Covington/Florence
-Watterson Park,Jefferson,0.0,,current_only,,unknown,unknown,,
-Georgetown,Scott,1.0,,direct_2019,,yes,verified_2019,"GSCRC 2017 PR100 instructions (captured 2018-05-08): ""the City of Georgetown, Kentucky has imposed an occupational license tax measured by 1.00% of all compensation paid or payable in the City""",unknown
-St. Matthews,Jefferson,0.75,,current_only,,unknown,carried_later_rate,,unknown
-Owensboro,Daviess,1.78,,direct_2019,,yes,verified_2019,"NFC TAXES 19-02 (published 2019-02-13) and 19-37 (published 2019-12-31): ""Owensboro ... 1.78 ... 1.78 ... DS""",verified: NFC 2019 lists caps only for Covington/Florence
-Frankfort,Franklin,1.95,,direct_2019,,yes,verified_2019,"NFC TAXES 19-02 (published 2019-02-13) and 19-37 (published 2019-12-31): ""Frankfort ... 1.95 ... 1.95 ... DS""",verified: NFC 2019 lists caps only for Covington/Florence
-Richmond,Madison,2.0,,direct_2019,,yes,verified_2019,"NFC TAXES 19-02 (published 2019-02-13) and 19-37 (published 2019-12-31): ""Richmond ... 2.00 ... 2.00 ... DS""",verified: NFC 2019 lists caps only for Covington/Florence
-Paducah,McCracken,2.0,,direct_2019,,yes,verified_2019,"NFC TAXES 19-02 (published 2019-02-13) and 19-37 (published 2019-12-31): ""Paducah (voluntary) ... 2.00 ... 2.00 ... DS""; paducahky.gov captured 2018-03-22: ""On September 25, 2007, the Board of Commissioners voted to permanently amend the ordinance to maintain the payroll tax at 2.0 percent.""",verified: NFC 2019 lists caps only for Covington/Florence
-Lyndon,Jefferson,0.75,,current_only,,unknown,carried_later_rate,,unknown
-Nicholasville,Jessamine,1.5,,direct_2019,,yes,verified_2019,"city quarterly return captured 2019-10-29: ""Current License Fee - 1.5% (line 3 X .015)""; code Sec. 27-3: ""Effective January 1, 2009, one and one-half percent (1.5%) of all wages"", history ""(Ord. No. 709-2008 ...; Ord. No. 726-2008 ...; Ord. No. 923-2015, 8-17-15)""",unknown
-Shepherdsville,Bullitt,1.5,,direct_2019,,yes,verified_2019,"city Employer's Return of License Fee Withheld, captured 2020-09-25: ""Tax Due this period at 1.5%""; council minutes 2017-05-08 grant an abatement ""reduction of the occupational tax to .5% ... a reduction of 1%"" (implying 1.5%); Pioneer News 2022-07-06: ""Instead of seeing the payroll tax deduction increasing from 1.5 percent to 2 percent""; the 2% in the current code dates from Ord. 022-052 (2022-05-23)",unknown
-Somerset,Pulaski,0.6,,historical_bridge,,yes,carried_later_rate,,unknown
-Bardstown,Nelson,1.0,,historical_bridge,,yes,carried_later_rate,,unknown
-Hopkinsville,Christian,1.95,,current_only,,unknown,carried_later_rate,,unknown
-Danville,Boyle,1.9,,historical_bridge,,yes,carried_later_rate,,unknown
-London,Laurel,1.0,,historical_bridge,,yes,carried_later_rate,,unknown
-Shelbyville,Shelby,1.5,,historical_bridge,,yes,verified_2019,"§ 60.003: ""One and one-half percent (1.5%) of all wages and compensation paid or payable in the city""; history ""(Ord. 2008-06-05(B), passed 6-5-08; Am. Ord. 2010-04-15, passed 4-15-10)""",unknown
-Glasgow,Barren,1.5,,historical_bridge,,yes,carried_later_rate,,unknown
-Madisonville,Hopkins,1.5,,historical_bridge,,yes,carried_later_rate,,unknown
-Middletown,Jefferson,0.0,,historical_bridge,,no,verified_2019,,
-Berea,Madison,2.0,,historical_bridge,,yes,carried_later_rate,,unknown
-Henderson,Henderson,1.29,,direct_2019,,yes,verified_2019,,unknown
-Shively,Jefferson,1.5,,historical_bridge,,yes,carried_later_rate,,unknown
-Pikeville,Pike,2.0,,historical_bridge,,yes,carried_later_rate,,unknown
-Ashland,Boyd,2.0,,current_only,,unknown,carried_later_rate,,unknown
-Mount Washington,Bullitt,1.0,,current_only,,unknown,carried_later_rate,,unknown
-Radcliff,Hardin,2.0,,historical_bridge,,yes,carried_later_rate,,unknown
-Versailles,Woodford,1.5,,historical_bridge,,yes,verified_2019,"§ 110.03(B)(1): ""For the first two million dollars ($2,000,000.00) reported, the rate shall be one and one-half percent""; history ""(Ord. 2007-25 ...; Am. Ord. 2011-9 ...; Am. Ord. 2011-29 ...; Am. Ord. 2018-18, passed 6-19-18)"", no amendment after mid-2018",unknown
-Murray,Calloway,1.0,,historical_bridge,,yes,carried_later_rate,,unknown
-Lebanon,Marion,1.0,,current_only,,unknown,carried_later_rate,,unknown
-Harrodsburg,Mercer,1.0,,historical_bridge,,yes,carried_later_rate,,unknown
-Hillview,Bullitt,1.8,,historical_bridge,,yes,carried_later_rate,,unknown
-Paris,Bourbon,1.5,,current_only,,unknown,carried_later_rate,,unknown
-Morehead,Rowan,1.5,,historical_bridge,,yes,carried_later_rate,,unknown
-Franklin,Simpson,1.0,,current_only,,unknown,carried_later_rate,,unknown
-Campbellsville,Taylor,1.0,,historical_bridge,,yes,carried_later_rate,,unknown
-Hazard,Perry,1.25,,historical_bridge,,yes,carried_later_rate,,unknown
-Leitchfield,Grayson,1.2,,direct_2019,,yes,verified_2019,,unknown
-Calvert City,Marshall,0.5,,historical_bridge,,yes,carried_later_rate,,unknown
-Corbin,Whitley,1.0,,historical_bridge,Knox,yes,carried_later_rate,,unknown
-Russellville,Logan,2.0,,historical_bridge,,yes,carried_later_rate,,unknown
-Winchester,Clark,2.0,,direct_2019,,yes,verified_2019,"city page captured 2020-08-04: ""The City of Winchester has a 2.0% occupational license fee (effective October 1, 2010) on gross wages earned in the city""; 2.15% only from 10/2024",no cap stated
+city,county,rate_2019_pct,wage_cap,evidence_class,only_county,tax_existed_2019,tax_existed_source,rate_2019_evidence,rate_2019_source,rate_2019_quote,cap_2019_evidence
+Florence,Boone,2.0,132900.0,direct_2019,,yes,same as rate source,verified_2019,https://www.nfc.usda.gov/Publications/HR_Payroll/Taxes/Bulletins/2019/TAXES-19-37.htm ; https://www.nfc.usda.gov/Publications/HR_Payroll/Taxes/Bulletins/2019/TAXES-19-02.htm,"NFC TAXES 19-02 (published 2019-02-13) and 19-37 (published 2019-12-31): ""Florence ... 2.00 2 ... 2.00 2 ... DS""; footnote ""Maximum withholding wage base of $132,900""",verified: NFC 2019 lists caps only for Covington/Florence
+Union,Boone,0.0,,pilot_verified,,no,"../nky_levies_2019.csv, ../pilot/RESULTS.md",verified_2019,../nky_levies_2019.csv (Kenton 2019 rate sheet; Campbell June 2019 notice; Boone 2019),,verified
+Walton,Boone,0.0,,pilot_verified,,no,"../nky_levies_2019.csv, ../pilot/RESULTS.md",verified_2019,../nky_levies_2019.csv (Kenton 2019 rate sheet; Campbell June 2019 notice; Boone 2019),,verified
+Bromley,Kenton,1.0,,pilot_verified,,yes,"../nky_levies_2019.csv, ../pilot/RESULTS.md",verified_2019,../nky_levies_2019.csv (Kenton 2019 rate sheet; Campbell June 2019 notice; Boone 2019),,verified
+Covington,Kenton,2.45,132900.0,direct_2019,,yes,same as rate source,verified_2019,https://www.nfc.usda.gov/Publications/HR_Payroll/Taxes/Bulletins/2019/TAXES-19-37.htm ; https://www.nfc.usda.gov/Publications/HR_Payroll/Taxes/Bulletins/2019/TAXES-19-02.htm,"NFC TAXES 19-02 (published 2019-02-13) and 19-37 (published 2019-12-31): ""Covington ... 2.45 1 ... 2.45 1 ... DS""; footnote ""Maximum withholding wage base of $132,900""",verified: NFC 2019 lists caps only for Covington/Florence
+Crescent Springs,Kenton,1.0,,pilot_verified,,yes,"../nky_levies_2019.csv, ../pilot/RESULTS.md",verified_2019,../nky_levies_2019.csv (Kenton 2019 rate sheet; Campbell June 2019 notice; Boone 2019),,verified
+Crestview Hills,Kenton,1.15,132900.0,pilot_verified,,yes,"../nky_levies_2019.csv, ../pilot/RESULTS.md",verified_2019,../nky_levies_2019.csv (Kenton 2019 rate sheet; Campbell June 2019 notice; Boone 2019),,verified
+Edgewood,Kenton,1.0,,pilot_verified,,yes,"../nky_levies_2019.csv, ../pilot/RESULTS.md",verified_2019,../nky_levies_2019.csv (Kenton 2019 rate sheet; Campbell June 2019 notice; Boone 2019),,verified
+Elsmere,Kenton,1.25,,pilot_verified,,yes,"../nky_levies_2019.csv, ../pilot/RESULTS.md",verified_2019,../nky_levies_2019.csv (Kenton 2019 rate sheet; Campbell June 2019 notice; Boone 2019),,verified
+Erlanger,Kenton,1.5,,pilot_verified,,yes,"../nky_levies_2019.csv, ../pilot/RESULTS.md",verified_2019,../nky_levies_2019.csv (Kenton 2019 rate sheet; Campbell June 2019 notice; Boone 2019),,verified
+Fort Mitchell,Kenton,1.25,,pilot_verified,,yes,"../nky_levies_2019.csv, ../pilot/RESULTS.md",verified_2019,../nky_levies_2019.csv (Kenton 2019 rate sheet; Campbell June 2019 notice; Boone 2019),,verified
+Fort Wright,Kenton,1.15,132900.0,pilot_verified,,yes,"../nky_levies_2019.csv, ../pilot/RESULTS.md",verified_2019,../nky_levies_2019.csv (Kenton 2019 rate sheet; Campbell June 2019 notice; Boone 2019),,verified
+Independence,Kenton,1.25,,pilot_verified,,yes,"../nky_levies_2019.csv, ../pilot/RESULTS.md",verified_2019,../nky_levies_2019.csv (Kenton 2019 rate sheet; Campbell June 2019 notice; Boone 2019),,verified
+Lakeside Park,Kenton,1.0,,pilot_verified,,yes,"../nky_levies_2019.csv, ../pilot/RESULTS.md",verified_2019,../nky_levies_2019.csv (Kenton 2019 rate sheet; Campbell June 2019 notice; Boone 2019),,verified
+Ludlow,Kenton,1.5,,pilot_verified,,yes,"../nky_levies_2019.csv, ../pilot/RESULTS.md",verified_2019,../nky_levies_2019.csv (Kenton 2019 rate sheet; Campbell June 2019 notice; Boone 2019),,verified
+Park Hills,Kenton,1.5,50000.0,pilot_verified,,yes,"../nky_levies_2019.csv, ../pilot/RESULTS.md",verified_2019,../nky_levies_2019.csv (Kenton 2019 rate sheet; Campbell June 2019 notice; Boone 2019),,verified
+Ryland Heights,Kenton,1.0,,pilot_verified,,yes,"../nky_levies_2019.csv, ../pilot/RESULTS.md",verified_2019,../nky_levies_2019.csv (Kenton 2019 rate sheet; Campbell June 2019 notice; Boone 2019),,verified
+Taylor Mill,Kenton,2.0,,pilot_verified,,yes,"../nky_levies_2019.csv, ../pilot/RESULTS.md",verified_2019,../nky_levies_2019.csv (Kenton 2019 rate sheet; Campbell June 2019 notice; Boone 2019),,verified
+Villa Hills,Kenton,1.5,,pilot_verified,,yes,"../nky_levies_2019.csv, ../pilot/RESULTS.md",verified_2019,../nky_levies_2019.csv (Kenton 2019 rate sheet; Campbell June 2019 notice; Boone 2019),,verified
+Fort Thomas,Campbell,1.25,,pilot_verified,,yes,"../nky_levies_2019.csv, ../pilot/RESULTS.md",verified_2019,../nky_levies_2019.csv (Kenton 2019 rate sheet; Campbell June 2019 notice; Boone 2019),,verified
+Alexandria,Campbell,1.5,132900.0,pilot_verified,,yes,"../nky_levies_2019.csv, ../pilot/RESULTS.md",verified_2019,../nky_levies_2019.csv (Kenton 2019 rate sheet; Campbell June 2019 notice; Boone 2019),,verified
+Cold Spring,Campbell,1.0,132900.0,pilot_verified,,yes,"../nky_levies_2019.csv, ../pilot/RESULTS.md",verified_2019,../nky_levies_2019.csv (Kenton 2019 rate sheet; Campbell June 2019 notice; Boone 2019),,verified
+Southgate,Campbell,2.5,,pilot_verified,,yes,"../nky_levies_2019.csv, ../pilot/RESULTS.md",verified_2019,../nky_levies_2019.csv (Kenton 2019 rate sheet; Campbell June 2019 notice; Boone 2019),,verified
+Highland Heights,Campbell,1.0,100000.0,pilot_verified,,yes,"../nky_levies_2019.csv, ../pilot/RESULTS.md",verified_2019,../nky_levies_2019.csv (Kenton 2019 rate sheet; Campbell June 2019 notice; Boone 2019),,verified
+Newport,Campbell,2.5,132900.0,pilot_verified,,yes,"../nky_levies_2019.csv, ../pilot/RESULTS.md",carried_later_rate,../nky_levies_2019.csv (Kenton 2019 rate sheet; Campbell June 2019 notice; Boone 2019),,unknown
+Bellevue,Campbell,2.5,,pilot_verified,,yes,"../nky_levies_2019.csv, ../pilot/RESULTS.md",carried_later_rate,../nky_levies_2019.csv (Kenton 2019 rate sheet; Campbell June 2019 notice; Boone 2019),,unknown
+Dayton,Campbell,2.0,,pilot_verified,,yes,"../nky_levies_2019.csv, ../pilot/RESULTS.md",verified_2019,../nky_levies_2019.csv (Kenton 2019 rate sheet; Campbell June 2019 notice; Boone 2019),,verified
+Melbourne,Campbell,0.0,,pilot_verified,,no,"../nky_levies_2019.csv, ../pilot/RESULTS.md",verified_2019,../nky_levies_2019.csv (Kenton 2019 rate sheet; Campbell June 2019 notice; Boone 2019),,verified
+Woodlawn,Campbell,0.0,,pilot_verified,,no,"../nky_levies_2019.csv, ../pilot/RESULTS.md",verified_2019,../nky_levies_2019.csv (Kenton 2019 rate sheet; Campbell June 2019 notice; Boone 2019),,verified
+Dry Ridge,Grant,1.25,,pilot_verified,,yes,"../nky_levies_2019.csv, ../pilot/RESULTS.md",verified_2019,../nky_levies_2019.csv (Kenton 2019 rate sheet; Campbell June 2019 notice; Boone 2019),,verified
+Williamstown,Grant,0.0,,pilot_verified,,no,"../nky_levies_2019.csv, ../pilot/RESULTS.md",verified_2019,../nky_levies_2019.csv (Kenton 2019 rate sheet; Campbell June 2019 notice; Boone 2019),,verified
+Falmouth,Pendleton,0.0,,pilot_verified,,no,"../nky_levies_2019.csv, ../pilot/RESULTS.md",verified_2019,../nky_levies_2019.csv (Kenton 2019 rate sheet; Campbell June 2019 notice; Boone 2019),,verified
+Elizabethtown,Hardin,1.35,,direct_2019,,yes,same as rate source,verified_2019,https://www.owensborotimes.com/features/community/2019/05/county-commissioners-discuss-tax-increase-budget-deficit/,"Owensboro Times 2019-05-17: ""According to the state government's website ... Hardin County/Elizabethtown (1.35 percent)"" (secondary)",unknown
+La Grange,Oldham,1.0,,pilot_bridge,,yes,,carried_later_rate,,,unknown
+Maysville,Mason,1.99,,pilot_bridge,,yes,,carried_later_rate,,,unknown
+Jeffersontown,Jefferson,1.0,,direct_2019,,yes,same as rate source,verified_2019,http://web.archive.org/web/20190716141914/https://www.jeffersontownky.com/383/Occupational-Tax ; http://web.archive.org/web/20190820133809/http://jeffersontownky.com/Faq.aspx?QID=89,"captured 2019-07-16: ""Tax Rate 1% of gross wage. No exemptions. No minimum or maximum amount.""; FAQ captured 2019-08-20: ""An employee earning a wage within the City of Jeffersontown is subject to the Jeffersontown occupational tax and the Louisville Metro occupational tax.""","verified: ""No minimum or maximum amount"" (2019 capture)"
+Bowling Green,Warren,1.85,,direct_2019,,yes,same as rate source,verified_2019,https://www.nfc.usda.gov/Publications/HR_Payroll/Taxes/Bulletins/2019/TAXES-19-37.htm ; https://www.nfc.usda.gov/Publications/HR_Payroll/Taxes/Bulletins/2019/TAXES-19-02.htm ; http://web.archive.org/web/20190119125153/http://www.bgky.org:80/finance/license,"NFC TAXES 19-02 (published 2019-02-13) and 19-37 (published 2019-12-31): ""Bowling Green ... 1.85 ... 1.85 ... DS""; bgky.org captured 2019-01-19: ""The occupational license tax rate is 1.85%.""; Warren County 2019 description: ""City of Bowling Green Occupational Tax-1.85%""",verified: NFC 2019 lists caps only for Covington/Florence
+Watterson Park,Jefferson,0.0,,current_only,,unknown,inferred from ordinance list https://wattersonparkky.com/documentscompleted.html,unknown,,,
+Georgetown,Scott,1.0,,direct_2019,,yes,same as rate source,verified_2019,http://web.archive.org/web/20180508123531/http://www.gscrevenue.com:80/Assets/Files/Forms/2017_PAYROLL_FORM_INSTR.pdf,"GSCRC 2017 PR100 instructions (captured 2018-05-08): ""the City of Georgetown, Kentucky has imposed an occupational license tax measured by 1.00% of all compensation paid or payable in the City""",unknown
+St. Matthews,Jefferson,0.75,,current_only,,unknown,https://www.stmatthewsky.gov/occupational-tax/,carried_later_rate,https://www.stmatthewsky.gov/occupational-tax/,,unknown
+Owensboro,Daviess,1.78,,direct_2019,,yes,same as rate source,verified_2019,https://www.nfc.usda.gov/Publications/HR_Payroll/Taxes/Bulletins/2019/TAXES-19-37.htm ; https://www.nfc.usda.gov/Publications/HR_Payroll/Taxes/Bulletins/2019/TAXES-19-02.htm ; https://www.daviessky.org/wp-content/uploads/2017/12/Business-License-Application-Revised-June-2017.pdf,"NFC TAXES 19-02 (published 2019-02-13) and 19-37 (published 2019-12-31): ""Owensboro ... 1.78 ... 1.78 ... DS""",verified: NFC 2019 lists caps only for Covington/Florence
+Frankfort,Franklin,1.95,,direct_2019,,yes,same as rate source,verified_2019,https://www.nfc.usda.gov/Publications/HR_Payroll/Taxes/Bulletins/2019/TAXES-19-37.htm ; https://www.nfc.usda.gov/Publications/HR_Payroll/Taxes/Bulletins/2019/TAXES-19-02.htm,"NFC TAXES 19-02 (published 2019-02-13) and 19-37 (published 2019-12-31): ""Frankfort ... 1.95 ... 1.95 ... DS""",verified: NFC 2019 lists caps only for Covington/Florence
+Richmond,Madison,2.0,,direct_2019,,yes,same as rate source,verified_2019,https://www.nfc.usda.gov/Publications/HR_Payroll/Taxes/Bulletins/2019/TAXES-19-37.htm ; https://www.nfc.usda.gov/Publications/HR_Payroll/Taxes/Bulletins/2019/TAXES-19-02.htm,"NFC TAXES 19-02 (published 2019-02-13) and 19-37 (published 2019-12-31): ""Richmond ... 2.00 ... 2.00 ... DS""",verified: NFC 2019 lists caps only for Covington/Florence
+Paducah,McCracken,2.0,,direct_2019,,yes,same as rate source,verified_2019,https://www.nfc.usda.gov/Publications/HR_Payroll/Taxes/Bulletins/2019/TAXES-19-37.htm ; https://www.nfc.usda.gov/Publications/HR_Payroll/Taxes/Bulletins/2019/TAXES-19-02.htm ; http://web.archive.org/web/20180322133454/http://www.paducahky.gov:80/payroll-tax,"NFC TAXES 19-02 (published 2019-02-13) and 19-37 (published 2019-12-31): ""Paducah (voluntary) ... 2.00 ... 2.00 ... DS""; paducahky.gov captured 2018-03-22: ""On September 25, 2007, the Board of Commissioners voted to permanently amend the ordinance to maintain the payroll tax at 2.0 percent.""",verified: NFC 2019 lists caps only for Covington/Florence
+Lyndon,Jefferson,0.75,,current_only,,unknown,https://codelibrary.amlegal.com/codes/lyndon/latest/lyndon_ky/0-0-0-5556,carried_later_rate,https://codelibrary.amlegal.com/codes/lyndon/latest/lyndon_ky/0-0-0-5556,,unknown
+Nicholasville,Jessamine,1.5,,direct_2019,,yes,https://codelibrary.amlegal.com/codes/nicholasville/latest/nicholasville_ky/0-0-0-10963,verified_2019,http://web.archive.org/web/20191029112209/http://www.nicholasville.org:80/forms/QuarterlyPayrollTaxForm.pdf ; https://codelibrary.amlegal.com/codes/nicholasville/latest/nicholasville_ky/0-0-0-10963,"city quarterly return captured 2019-10-29: ""Current License Fee - 1.5% (line 3 X .015)""; code Sec. 27-3: ""Effective January 1, 2009, one and one-half percent (1.5%) of all wages"", history ""(Ord. No. 709-2008 ...; Ord. No. 726-2008 ...; Ord. No. 923-2015, 8-17-15)""",unknown
+Shepherdsville,Bullitt,1.5,,direct_2019,,yes,same as rate source,verified_2019,http://web.archive.org/web/20200925091516/https://shepherdsville.net/wp-content/uploads/2013/03/Withholding-Form.pdf ; https://www.pmg-ky1.com/pioneer_news/news/occupational-tax-rolled-back-to-1-5-in-shepherdsville/article_10b88134-448e-56e4-91a2-e7ec03e9f029.html ; http://web.archive.org/web/2022/https://shepherdsville.net/wp-content/uploads/2017/06/5-8-17-Meeting-Minutes.pdf,"city Employer's Return of License Fee Withheld, captured 2020-09-25: ""Tax Due this period at 1.5%""; council minutes 2017-05-08 grant an abatement ""reduction of the occupational tax to .5% ... a reduction of 1%"" (implying 1.5%); Pioneer News 2022-07-06: ""Instead of seeing the payroll tax deduction increasing from 1.5 percent to 2 percent""; the 2% in the current code dates from Ord. 022-052 (2022-05-23)",unknown
+Somerset,Pulaski,0.6,,historical_bridge,,yes,https://www.cityofsomerset.com/wp-content/uploads/2017/05/13-02.pdf,carried_later_rate,https://www.cityofsomerset.com/wp-content/uploads/2017/05/13-02.pdf,,unknown
+Bardstown,Nelson,1.0,,historical_bridge,,yes,https://cms6.revize.com/revize/bardstown/document_center/Occupational%20License%20Fee%20Forms/2017%20Net%20Profit%20Form.pdf,carried_later_rate,https://cms6.revize.com/revize/bardstown/document_center/Occupational%20License%20Fee%20Forms/2017%20Net%20Profit%20Form.pdf,,unknown
+Hopkinsville,Christian,1.95,,current_only,,unknown,https://codelibrary.amlegal.com/codes/hopkinsville/latest/hopkinsville_ky/0-0-0-5463,carried_later_rate,https://codelibrary.amlegal.com/codes/hopkinsville/latest/hopkinsville_ky/0-0-0-5463,,unknown
+Danville,Boyle,1.9,,historical_bridge,,yes,https://www.danvilleky.org/231/Business-Occupational-Licenses,carried_later_rate,https://www.danvilleky.org/231/Business-Occupational-Licenses,,unknown
+London,Laurel,1.0,,historical_bridge,,yes,https://web.archive.org/web/20170124203558/http://www.londonky.gov/wp-content/uploads/2016/06/Occupational_License_080708-2-2008-08.doc,carried_later_rate,https://web.archive.org/web/20170124203558/http://www.londonky.gov/wp-content/uploads/2016/06/Occupational_License_080708-2-2008-08.doc,,unknown
+Shelbyville,Shelby,1.5,,historical_bridge,,yes,http://web.archive.org/web/20250621170604/https://codelibrary.amlegal.com/codes/shelbyvilleky/latest/shelbyville_ky/0-0-0-14209,verified_2019,https://codelibrary.amlegal.com/codes/shelbyvilleky/latest/shelbyville_ky/0-0-0-14209,"§ 60.003: ""One and one-half percent (1.5%) of all wages and compensation paid or payable in the city""; history ""(Ord. 2008-06-05(B), passed 6-5-08; Am. Ord. 2010-04-15, passed 4-15-10)""",unknown
+Glasgow,Barren,1.5,,historical_bridge,,yes,https://www.wcluradio.com/2020/09/14/council-votes-to-increase-occupational-tax/,carried_later_rate,https://www.wcluradio.com/2020/09/14/council-votes-to-increase-occupational-tax/,,unknown
+Madisonville,Hopkins,1.5,,historical_bridge,,yes,https://www.the-messenger.com/news/local/article_de9f6670-7dc5-5ecd-b5b3-74cf4029834c.html,carried_later_rate,https://www.the-messenger.com/news/local/article_de9f6670-7dc5-5ecd-b5b3-74cf4029834c.html,,unknown
+Middletown,Jefferson,0.0,,historical_bridge,,no,https://codelibrary.amlegal.com/codes/middletownky/latest/middletown_ky/0-0-0-10846,verified_2019,https://codelibrary.amlegal.com/codes/middletownky/latest/middletown_ky/0-0-0-10846,,
+Berea,Madison,2.0,,historical_bridge,,yes,http://web.archive.org/web/20250803053107/https://codelibrary.amlegal.com/codes/bereaky/latest/berea_ky/0-0-0-37366,carried_later_rate,http://web.archive.org/web/20250803053107/https://codelibrary.amlegal.com/codes/bereaky/latest/berea_ky/0-0-0-37366,,unknown
+Henderson,Henderson,1.29,,direct_2019,,yes,https://hendersonky.gov/DocumentCenter/View/2976/Ord-27-19-Amend-Occ-Lic-Fees,verified_2019,https://hendersonky.gov/DocumentCenter/View/2976/Ord-27-19-Amend-Occ-Lic-Fees,,unknown
+Shively,Jefferson,1.5,,historical_bridge,,yes,https://shivelyky.gov/wp-content/uploads/2021/04/March-15.pdf,carried_later_rate,https://shivelyky.gov/wp-content/uploads/2021/04/March-15.pdf,,unknown
+Pikeville,Pike,2.0,,historical_bridge,,yes,https://codelibrary.amlegal.com/codes/pikeville/latest/pikeville_ky/0-0-0-3709,carried_later_rate,https://codelibrary.amlegal.com/codes/pikeville/latest/pikeville_ky/0-0-0-3709,,unknown
+Ashland,Boyd,2.0,,current_only,,unknown,https://www.ashlandky.gov/business/business_licenses/occupational_license_fee.php,carried_later_rate,https://www.ashlandky.gov/business/business_licenses/occupational_license_fee.php,,unknown
+Mount Washington,Bullitt,1.0,,current_only,,unknown,https://www.mtwashingtonky.org/community/new_page/occupational_taxes.php,carried_later_rate,https://www.mtwashingtonky.org/community/new_page/occupational_taxes.php,,unknown
+Radcliff,Hardin,2.0,,historical_bridge,,yes,https://radcliff.org/wp-content/uploads/2018/03/City-of-Radcliff-2017-Code-of-Ordinances.pdf,carried_later_rate,https://radcliff.org/wp-content/uploads/2018/03/City-of-Radcliff-2017-Code-of-Ordinances.pdf,,unknown
+Versailles,Woodford,1.5,,historical_bridge,,yes,https://codelibrary.amlegal.com/codes/versailles/latest/versailles_ky/0-0-0-24523,verified_2019,https://codelibrary.amlegal.com/codes/versailles/latest/versailles_ky/0-0-0-24523,"§ 110.03(B)(1): ""For the first two million dollars ($2,000,000.00) reported, the rate shall be one and one-half percent""; history ""(Ord. 2007-25 ...; Am. Ord. 2011-9 ...; Am. Ord. 2011-29 ...; Am. Ord. 2018-18, passed 6-19-18)"", no amendment after mid-2018",unknown
+Murray,Calloway,1.0,,historical_bridge,,yes,https://codelibrary.amlegal.com/codes/murray/latest/murray_ky/0-0-0-21965,carried_later_rate,https://codelibrary.amlegal.com/codes/murray/latest/murray_ky/0-0-0-21965,,unknown
+Lebanon,Marion,1.0,,current_only,,unknown,https://lebanon.ky.gov/depart/taxes/,carried_later_rate,https://lebanon.ky.gov/depart/taxes/,,unknown
+Harrodsburg,Mercer,1.0,,historical_bridge,,yes,https://news.bloombergtax.com/payroll/2-kentucky-cities-increase-their-occupational-tax-rates-2,carried_later_rate,https://news.bloombergtax.com/payroll/2-kentucky-cities-increase-their-occupational-tax-rates-2,,unknown
+Hillview,Bullitt,1.8,,historical_bridge,,yes,http://web.archive.org/web/20220121133228/https://codelibrary.amlegal.com/codes/hillview/latest/hillview_ky/0-0-0-12896,carried_later_rate,http://web.archive.org/web/20220121133228/https://codelibrary.amlegal.com/codes/hillview/latest/hillview_ky/0-0-0-12896,,unknown
+Paris,Bourbon,1.5,,current_only,,unknown,https://www.paris.ky.gov/Assets/Files/Business%20Application%20Annual%20License.pdf,carried_later_rate,https://www.paris.ky.gov/Assets/Files/Business%20Application%20Annual%20License.pdf,,unknown
+Morehead,Rowan,1.5,,historical_bridge,,yes,https://web.archive.org/web/20250110211707/https://www.morehead-ky.gov/wp-content/uploads/2019/08/Occupational-License-Tax.pdf,carried_later_rate,https://web.archive.org/web/20250110211707/https://www.morehead-ky.gov/wp-content/uploads/2019/08/Occupational-License-Tax.pdf,,unknown
+Franklin,Simpson,1.0,,current_only,,unknown,https://www.franklinky.gov/departments/finance_accounting/business_licensing_taxes.php,carried_later_rate,https://www.franklinky.gov/departments/finance_accounting/business_licensing_taxes.php,,unknown
+Campbellsville,Taylor,1.0,,historical_bridge,,yes,https://web.archive.org/web/20250525022354/https://codelibrary.amlegal.com/codes/campbellsville/latest/campbellsville_ky/0-0-0-2742,carried_later_rate,https://web.archive.org/web/20250525022354/https://codelibrary.amlegal.com/codes/campbellsville/latest/campbellsville_ky/0-0-0-2742,,unknown
+Hazard,Perry,1.25,,historical_bridge,,yes,https://hazardky.gov/wp-content/uploads/2024/02/Chapter-115-Occupational-License-Tax-Ordinance.pdf,carried_later_rate,https://hazardky.gov/wp-content/uploads/2024/02/Chapter-115-Occupational-License-Tax-Ordinance.pdf,,unknown
+Leitchfield,Grayson,1.2,,direct_2019,,yes,http://web.archive.org/web/20250423105255/https://codelibrary.amlegal.com/codes/leitchfield/latest/leitchfield_ky/0-0-0-3815,verified_2019,http://web.archive.org/web/20250423105255/https://codelibrary.amlegal.com/codes/leitchfield/latest/leitchfield_ky/0-0-0-3815,,unknown
+Calvert City,Marshall,0.5,,historical_bridge,,yes,https://calvertcityky.gov/wp-content/uploads/2019/08/Occupational-License-Tax-Ordinance-2007-07.pdf,carried_later_rate,https://calvertcityky.gov/wp-content/uploads/2019/08/Occupational-License-Tax-Ordinance-2007-07.pdf,,unknown
+Corbin,Whitley,1.0,,historical_bridge,Knox,yes,http://web.archive.org/web/20260202013721/https://www.corbin-ky.gov/assets/files/uploads/_20240118110308388_3c4b72d27552424881504b851b27ab70.pdf,carried_later_rate,http://web.archive.org/web/20260202013721/https://www.corbin-ky.gov/assets/files/uploads/_20240118110308388_3c4b72d27552424881504b851b27ab70.pdf,,unknown
+Russellville,Logan,2.0,,historical_bridge,,yes,https://russellvilleky.gov/images/ordinance/2007/2007-18.pdf,carried_later_rate,https://russellvilleky.gov/images/ordinance/2007/2007-18.pdf,,unknown
+Winchester,Clark,2.0,,direct_2019,,yes,same as rate source,verified_2019,http://web.archive.org/web/20200804132631/http://www.winchesterky.com/888/Occupational-License-Fees-Payroll-Tax,"city page captured 2020-08-04: ""The City of Winchester has a 2.0% occupational license fee (effective October 1, 2010) on gross wages earned in the city""; 2.15% only from 10/2024",no cap stated

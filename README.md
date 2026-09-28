@@ -26,9 +26,4 @@ This runs, in order:
 3. `scripts/revenue/run.sh`: revenue samples and event-study estimates (bootstrap B = 1999, 999 where noted in the script)
 4. `scripts/states/run.sh`: Michigan, Pennsylvania and Kentucky calculations
 
-## Layout
-
-- `data/ohio`, `data/michigan`, `data/pennsylvania`, `data/kentucky`: assembled tax schedules, collections and other inputs
-- `data/raw`: downloaded public files (created by the download scripts)
-- `output/ohio`, `output/revenue`, `output/states`: results as CSV and JSON
-- `output/logs`: console output of each step
+Results are written to `output/` as CSV and JSON, with console logs in `output/logs/`.
