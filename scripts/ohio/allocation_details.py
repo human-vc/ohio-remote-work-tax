@@ -38,7 +38,8 @@ out.append(('out_of_state', 'worker_share_all_to_home', 1-(G_in+L_out)/(L_in+L_o
 tp = pd.Index([p for p, c in C.items() if c=='taxing'])
 r = rate.reindex(tp); f = fac.reindex(tp); c = cap.reindex(tp)
 unk = f.isna()|c.isna()
-out += [('schedule', 'taxing_places', len(tp)), ('schedule', 'rate_min', r.min()), ('schedule', 'rate_median', r.median()), ('schedule', 'rate_max', r.max()),
+out += [('schedule', 'finder_in_force_2019_12_31', len(F)), ('schedule', 'finder_zero_rate', int((F.rate==0).sum())), ('schedule', 'finder_unmapped', len(amb)),
+        ('schedule', 'taxing_places', len(tp)), ('schedule', 'rate_min', r.min()), ('schedule', 'rate_median', r.median()), ('schedule', 'rate_max', r.max()),
         ('schedule', 'credit_unknown', unk.sum()), ('schedule', 'credit_full', ((f==100)&~unk).sum()),
         ('schedule', 'credit_partial', ((f>0)&(f<100)&~unk).sum()), ('schedule', 'credit_none', ((f==0)&~unk).sum()),
         ('schedule', 'full_credit_cap_below_rate', ((c<r)&(f==100)&~unk).sum()),
