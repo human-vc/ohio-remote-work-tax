@@ -1,0 +1,199 @@
+city,year,withholding,individual,net_profit,other,refunds,total_reported,basis,gross_or_net,check_ok,status,source_url_or_file,page,notes
+Upper Arlington,2024.0,32526000.0,10321000.0,5425000.0,,,48272000.0,cash,not specified in source,true,full_split,docs/acfr_Upper_Arlington.txt,202,"Table 12; source table in thousands, converted to dollars (x1000); RITA-collected plus non-resident individual remittances"
+Upper Arlington,2023.0,28362000.0,10850000.0,5617000.0,,,44829000.0,cash,not specified in source,true,full_split,docs/acfr_Upper_Arlington.txt,202,"Table 12; amounts in thousands in source, converted to dollars"
+Upper Arlington,2022.0,25455000.0,9861000.0,5820000.0,,,41136000.0,cash,not specified in source,true,full_split,docs/acfr_Upper_Arlington.txt,202,"Table 12; amounts in thousands in source, converted to dollars"
+Upper Arlington,2021.0,21206000.0,9444000.0,5294000.0,,,35944000.0,cash,not specified in source,true,full_split,docs/acfr_Upper_Arlington.txt,202,"Table 12; amounts in thousands in source, converted to dollars"
+Upper Arlington,2020.0,18616000.0,7330000.0,4682000.0,,,30628000.0,cash,not specified in source,true,full_split,docs/acfr_Upper_Arlington.txt,202,"Table 12; amounts in thousands in source, converted to dollars"
+Upper Arlington,2019.0,17885000.0,7954000.0,3883000.0,,,29722000.0,cash,not specified in source,true,full_split,docs/acfr_Upper_Arlington.txt,202,"Table 12; amounts in thousands in source, converted to dollars"
+Upper Arlington,2018.0,17047000.0,7855000.0,3835000.0,,,28737000.0,cash,not specified in source,true,full_split,docs/acfr_Upper_Arlington.txt,202,"Table 12; amounts in thousands in source, converted to dollars"
+Upper Arlington,2017.0,16136000.0,6763000.0,3209000.0,,,26108000.0,cash,not specified in source,true,full_split,docs/acfr_Upper_Arlington.txt,202,"Table 12; amounts in thousands in source, converted to dollars"
+Upper Arlington,2016.0,15275000.0,7030000.0,2957000.0,,,25262000.0,cash,not specified in source,true,full_split,docs/acfr_Upper_Arlington.txt,202,"Table 12; amounts in thousands in source, converted to dollars"
+Upper Arlington,2015.0,13644000.0,5739000.0,2108000.0,,,21491000.0,cash,not specified in source,true,full_split,docs/acfr_Upper_Arlington.txt,202,"Table 12; amounts in thousands in source, converted to dollars"
+Solon,2024.0,39037126.0,4730626.0,8220461.0,,,51988213.0,accrual,not specified in source,true,full_split,docs/acfr_Solon.txt,S12,Note (1): 2015-2024 on full accrual basis
+Solon,2023.0,39502609.0,5152016.0,8244747.0,,,52899372.0,accrual,not specified in source,true,full_split,docs/acfr_Solon.txt,S12,full accrual basis per source note
+Solon,2022.0,39028238.0,4618619.0,6935718.0,,,50582575.0,accrual,not specified in source,true,full_split,docs/acfr_Solon.txt,S12,full accrual basis per source note
+Solon,2021.0,35975255.0,4755023.0,7079465.0,,,47809743.0,accrual,not specified in source,true,full_split,docs/acfr_Solon.txt,S12,full accrual basis per source note
+Solon,2020.0,35902860.0,4041458.0,5267094.0,,,45211412.0,accrual,not specified in source,true,full_split,docs/acfr_Solon.txt,S12,full accrual basis per source note
+Solon,2019.0,33205672.0,4205850.0,5814871.0,,,43226393.0,accrual,not specified in source,true,full_split,docs/acfr_Solon.txt,S12,full accrual basis per source note
+Solon,2018.0,35206650.0,3740105.0,7391788.0,,,46338543.0,accrual,not specified in source,true,full_split,docs/acfr_Solon.txt,S12,full accrual basis per source note
+Solon,2017.0,33422279.0,3930490.0,6963256.0,,,44316025.0,accrual,not specified in source,true,full_split,docs/acfr_Solon.txt,S12,full accrual basis per source note
+Solon,2016.0,34349591.0,3819891.0,6826711.0,,,44996193.0,accrual,not specified in source,true,full_split,docs/acfr_Solon.txt,S12,full accrual basis per source note
+Solon,2015.0,27463566.0,3406864.0,5104899.0,,,35975329.0,accrual,not specified in source,true,full_split,docs/acfr_Solon.txt,S12,full accrual basis per source note
+Grove City,2024.0,35080144.0,3444269.0,5560765.0,,,44085178.0,cash,gross (per source note 1),true,full_split,docs/acfr_Grove_City.txt,S13,"Table 5; note 1 states amounts reported gross of refunds/adjustments; 2025 row also in source but out of 2015-2024 window, omitted"
+Grove City,2023.0,32246817.0,3567976.0,9376693.0,,,45191486.0,cash,gross (per source note 1),true,full_split,docs/acfr_Grove_City.txt,S13,Table 5
+Grove City,2022.0,29666757.0,3376644.0,7072830.0,,,40116231.0,cash,gross (per source note 1),true,full_split,docs/acfr_Grove_City.txt,S13,Table 5
+Grove City,2021.0,25783503.0,3436321.0,5524965.0,,,34744789.0,cash,gross (per source note 1),true,full_split,docs/acfr_Grove_City.txt,S13,Table 5
+Grove City,2020.0,23297217.0,2301694.0,2592544.0,,,28191455.0,cash,gross (per source note 1),true,full_split,docs/acfr_Grove_City.txt,S13,Table 5
+Grove City,2019.0,22312666.0,2297260.0,2281046.0,,,26890972.0,cash,gross (per source note 1),true,full_split,docs/acfr_Grove_City.txt,S13,Table 5
+Grove City,2018.0,19631846.0,2309467.0,3124264.0,,,25065577.0,cash,gross (per source note 1),true,full_split,docs/acfr_Grove_City.txt,S13,Table 5
+Grove City,2017.0,18446253.0,2171830.0,4074179.0,,,24692262.0,cash,gross (per source note 1),true,full_split,docs/acfr_Grove_City.txt,S13,Table 5
+Grove City,2016.0,17194897.0,2101555.0,4240477.0,,,23536929.0,cash,gross (per source note 1),true,full_split,docs/acfr_Grove_City.txt,S13,Table 5; no 2015 row in source (table starts 2016)
+North Ridgeville,2024.0,7887857.0,7877080.0,1129190.0,,,16894128.0,cash,not specified in source,true,full_split,docs/acfr_North_Ridgeville.txt,S-16,"components sum to 16894127 vs reported 16894128 (rounding, within 1%)"
+North Ridgeville,2023.0,7320082.0,8219719.0,1253609.0,,,16793410.0,cash,not specified in source,true,full_split,docs/acfr_North_Ridgeville.txt,S-16,exact match
+North Ridgeville,2022.0,6696050.0,7901144.0,780853.0,,,15378047.0,cash,not specified in source,true,full_split,docs/acfr_North_Ridgeville.txt,S-16,exact match
+North Ridgeville,2021.0,5331707.0,7946364.0,814366.0,,,14092437.0,cash,not specified in source,true,full_split,docs/acfr_North_Ridgeville.txt,S-16,exact match
+North Ridgeville,2020.0,4777311.0,6939386.0,647775.0,,,12364471.0,cash,not specified in source,true,full_split,docs/acfr_North_Ridgeville.txt,S-16,"components sum to 12364472 vs reported 12364471 (rounding, within 1%)"
+North Ridgeville,2019.0,4591731.0,7244043.0,784607.0,,,12620381.0,cash,not specified in source,true,full_split,docs/acfr_North_Ridgeville.txt,S-16,exact match
+North Ridgeville,2018.0,5136163.0,6112204.0,536000.0,,,11784367.0,cash,not specified in source,true,full_split,docs/acfr_North_Ridgeville.txt,S-16,exact match
+North Ridgeville,2017.0,3825988.0,6609406.0,469351.0,,,10904745.0,cash,not specified in source,true,full_split,docs/acfr_North_Ridgeville.txt,S-16,exact match
+North Ridgeville,2016.0,3593264.0,6568453.0,623560.0,,,10785277.0,cash,not specified in source,true,full_split,docs/acfr_North_Ridgeville.txt,S-16,exact match
+North Ridgeville,2015.0,3255377.0,5893031.0,605637.0,,,9754045.0,cash,not specified in source,true,full_split,docs/acfr_North_Ridgeville.txt,S-16,exact match
+Westlake,2024.0,30076419.0,4177280.0,7519105.0,,,41772804.0,cash,not specified in source,true,full_split,docs/acfr_Westlake.txt,S17,exact match
+Westlake,2023.0,28935882.0,5106332.0,8510553.0,,,42552767.0,cash,not specified in source,true,full_split,docs/acfr_Westlake.txt,S17,exact match
+Westlake,2022.0,27399553.0,4305644.0,7437022.0,,,39142219.0,cash,not specified in source,true,full_split,docs/acfr_Westlake.txt,S17,exact match
+Westlake,2021.0,25482444.0,3920376.0,3266980.0,,,32669800.0,cash,not specified in source,true,full_split,docs/acfr_Westlake.txt,S17,exact match
+Westlake,2020.0,24252518.0,3880403.0,4203770.0,,,32336691.0,cash,not specified in source,true,full_split,docs/acfr_Westlake.txt,S17,exact match
+Westlake,2019.0,25187164.0,3925272.0,3598166.0,,,32710602.0,cash,not specified in source,true,full_split,docs/acfr_Westlake.txt,S17,exact match
+Westlake,2018.0,24839470.0,3595186.0,4248857.0,,,32683513.0,cash,not specified in source,true,full_split,docs/acfr_Westlake.txt,S17,exact match
+Westlake,2017.0,22979753.0,3370364.0,4289553.0,,,30639670.0,cash,not specified in source,true,full_split,docs/acfr_Westlake.txt,S17,exact match
+Westlake,2016.0,20893998.0,3388216.0,3952918.0,,,28235132.0,cash,not specified in source,true,full_split,docs/acfr_Westlake.txt,S17,exact match
+Westlake,2015.0,18564196.0,3094033.0,4125377.0,,,25783606.0,cash,not specified in source,true,full_split,docs/acfr_Westlake.txt,S17,exact match
+Willoughby,2024.0,18782758.0,2044872.0,4186798.0,408837,,25423265.0,cash,not specified in source,true,full_split,docs/acfr_Willoughby.txt,S8,exact match; other column present in source table
+Willoughby,2023.0,17867099.0,2061947.0,3932794.0,337595,,24199435.0,cash,not specified in source,true,full_split,docs/acfr_Willoughby.txt,S8,exact match
+Willoughby,2022.0,16430200.0,1974669.0,3965494.0,308175,,22678538.0,cash,not specified in source,true,full_split,docs/acfr_Willoughby.txt,S8,exact match
+Willoughby,2021.0,14685619.0,1639169.0,2846770.0,388681,,19560239.0,cash,not specified in source,true,full_split,docs/acfr_Willoughby.txt,S8,exact match
+Willoughby,2020.0,13861000.0,1543599.0,2360197.0,323882,,18088678.0,cash,not specified in source,true,full_split,docs/acfr_Willoughby.txt,S8,exact match
+Willoughby,2019.0,14125208.0,1704573.0,2815310.0,561723,,19206814.0,cash,not specified in source,true,full_split,docs/acfr_Willoughby.txt,S8,exact match
+Willoughby,2018.0,13629927.0,1400969.0,2598150.0,315421,,17944467.0,cash,not specified in source,true,full_split,docs/acfr_Willoughby.txt,S8,exact match
+Willoughby,2017.0,12933423.0,1388858.0,2402411.0,228330,,16953021.0,cash,not specified in source,true,full_split,docs/acfr_Willoughby.txt,S8,exact match
+Willoughby,2016.0,12730500.0,1479920.0,2692623.0,296709,,17199752.0,cash,not specified in source,true,full_split,docs/acfr_Willoughby.txt,S8,exact match
+Willoughby,2015.0,12620567.0,1408597.0,2600829.0,244116,,16874109.0,cash,not specified in source,true,full_split,docs/acfr_Willoughby.txt,S8,exact match
+North Olmsted,2024.0,13697274.0,2482854.0,2393257.0,,,18573385.0,cash,not specified in source,true,full_split,docs/acfr_North_Olmsted.txt,S11,"exact match; FY2025 audit also in source but out of 2015-2024 window, omitted"
+North Olmsted,2023.0,13019909.0,2521333.0,3732242.0,,,19273484.0,cash,not specified in source,true,full_split,docs/acfr_North_Olmsted.txt,S11,exact match
+North Olmsted,2022.0,13000893.0,2452342.0,4597012.0,,,20050247.0,cash,not specified in source,true,full_split,docs/acfr_North_Olmsted.txt,S11,exact match
+North Olmsted,2021.0,12285454.0,2338887.0,2834713.0,,,17459054.0,cash,not specified in source,true,full_split,docs/acfr_North_Olmsted.txt,S11,exact match
+North Olmsted,2020.0,11544801.0,2005563.0,1660508.0,,,15210872.0,cash,not specified in source,true,full_split,docs/acfr_North_Olmsted.txt,S11,exact match
+North Olmsted,2019.0,11459249.0,2268061.0,2693762.0,,,16421072.0,cash,not specified in source,true,full_split,docs/acfr_North_Olmsted.txt,S11,exact match
+North Olmsted,2018.0,11608492.0,2090585.0,2165099.0,,,15864176.0,cash,not specified in source,true,full_split,docs/acfr_North_Olmsted.txt,S11,exact match
+North Olmsted,2017.0,11613989.0,2119234.0,1875400.0,,,15608623.0,cash,not specified in source,true,full_split,docs/acfr_North_Olmsted.txt,S11,exact match
+North Olmsted,2016.0,11334047.0,2263281.0,1562784.0,,,15160112.0,cash,not specified in source,true,full_split,docs/acfr_North_Olmsted.txt,S11,exact match; no 2015 row in source (table starts 2016)
+Worthington,2016.0,19358989.0,2901956.0,2623030.0,,,24883975.0,"modified accrual (governmental funds, GAAP; basis not explicitly labeled)",gross (no refunds line in this table),True,reported,docs/acfr_Worthington.txt,S13-S14,"Column labeled Corporate treated as net_profit; reused existing acfr_Worthington.txt (FY2025 ACFR, 10-year statistical table covers 2016-2025)"
+Worthington,2017.0,20444183.0,2757055.0,3056963.0,,,26258201.0,"modified accrual (governmental funds, GAAP; basis not explicitly labeled)",gross (no refunds line in this table),True,reported,docs/acfr_Worthington.txt,S13-S14,"Column labeled Corporate treated as net_profit; reused existing acfr_Worthington.txt (FY2025 ACFR, 10-year statistical table covers 2016-2025)"
+Worthington,2018.0,20508647.0,2893839.0,2662644.0,,,26065130.0,"modified accrual (governmental funds, GAAP; basis not explicitly labeled)",gross (no refunds line in this table),True,reported,docs/acfr_Worthington.txt,S13-S14,"Column labeled Corporate treated as net_profit; reused existing acfr_Worthington.txt (FY2025 ACFR, 10-year statistical table covers 2016-2025)"
+Worthington,2019.0,20764225.0,2833938.0,2828732.0,,,26426895.0,"modified accrual (governmental funds, GAAP; basis not explicitly labeled)",gross (no refunds line in this table),True,reported,docs/acfr_Worthington.txt,S13-S14,"Column labeled Corporate treated as net_profit; reused existing acfr_Worthington.txt (FY2025 ACFR, 10-year statistical table covers 2016-2025)"
+Worthington,2020.0,20820728.0,2914167.0,2763783.0,,,26498678.0,"modified accrual (governmental funds, GAAP; basis not explicitly labeled)",gross (no refunds line in this table),True,reported,docs/acfr_Worthington.txt,S13-S14,"Column labeled Corporate treated as net_profit; reused existing acfr_Worthington.txt (FY2025 ACFR, 10-year statistical table covers 2016-2025)"
+Worthington,2021.0,23119571.0,3011599.0,4605795.0,,,30736965.0,"modified accrual (governmental funds, GAAP; basis not explicitly labeled)",gross (no refunds line in this table),True,reported,docs/acfr_Worthington.txt,S13-S14,"Column labeled Corporate treated as net_profit; reused existing acfr_Worthington.txt (FY2025 ACFR, 10-year statistical table covers 2016-2025)"
+Worthington,2022.0,24836420.0,3237420.0,5124707.0,,,33198547.0,"modified accrual (governmental funds, GAAP; basis not explicitly labeled)",gross (no refunds line in this table),True,reported,docs/acfr_Worthington.txt,S13-S14,"Column labeled Corporate treated as net_profit; reused existing acfr_Worthington.txt (FY2025 ACFR, 10-year statistical table covers 2016-2025)"
+Worthington,2023.0,26424752.0,3528667.0,4265631.0,,,34219050.0,"modified accrual (governmental funds, GAAP; basis not explicitly labeled)",gross (no refunds line in this table),True,reported,docs/acfr_Worthington.txt,S13-S14,"Column labeled Corporate treated as net_profit; reused existing acfr_Worthington.txt (FY2025 ACFR, 10-year statistical table covers 2016-2025)"
+Worthington,2024.0,27632183.0,3201528.0,4293473.0,,,35127184.0,"modified accrual (governmental funds, GAAP; basis not explicitly labeled)",gross (no refunds line in this table),True,reported,docs/acfr_Worthington.txt,S13-S14,"Column labeled Corporate treated as net_profit; reused existing acfr_Worthington.txt (FY2025 ACFR, 10-year statistical table covers 2016-2025)"
+Fairview Park,2015.0,3228481.0,4636195.0,479808.0,,,8344484.0,cash,gross (RITA collections table; no refunds line),True,reported,docs/acfr_Fairview_Park.txt,S18,
+Fairview Park,2016.0,3625307.0,4721516.0,536556.0,,,8883380.0,cash,gross (RITA collections table; no refunds line),True,reported,docs/acfr_Fairview_Park.txt,S18,
+Fairview Park,2017.0,3749528.0,4854840.0,546372.0,,,9150740.0,cash,gross (RITA collections table; no refunds line),True,reported,docs/acfr_Fairview_Park.txt,S18,
+Fairview Park,2018.0,4083269.0,5034679.0,594917.0,,,9712865.0,cash,gross (RITA collections table; no refunds line),True,reported,docs/acfr_Fairview_Park.txt,S18,
+Fairview Park,2019.0,4404652.0,5170306.0,544124.0,,,10119082.0,cash,gross (RITA collections table; no refunds line),True,reported,docs/acfr_Fairview_Park.txt,S18,
+Fairview Park,2020.0,4481024.0,5489614.0,506442.0,,,10477080.0,cash,gross (RITA collections table; no refunds line),True,reported,docs/acfr_Fairview_Park.txt,S18,
+Fairview Park,2021.0,4905157.0,5385436.0,516162.0,,,10806755.0,cash,gross (RITA collections table; no refunds line),True,reported,docs/acfr_Fairview_Park.txt,S18,
+Fairview Park,2022.0,5980375.0,5308484.0,739622.0,,,12028482.0,cash,gross (RITA collections table; no refunds line),True,reported,docs/acfr_Fairview_Park.txt,S18,
+Fairview Park,2023.0,6809391.0,5311504.0,998255.0,,,13119150.0,cash,gross (RITA collections table; no refunds line),True,reported,docs/acfr_Fairview_Park.txt,S18,
+Fairview Park,2024.0,7094981.0,5239314.0,555348.0,,,12889643.0,cash,gross (RITA collections table; no refunds line),True,reported,docs/acfr_Fairview_Park.txt,S18,
+Avon,2015.0,9485401.0,3568780.0,2112754.0,,,15166934.0,accrual,gross (RITA data; no refunds line),True,reported,docs/acfr_Avon.txt,S22-S23,
+Avon,2016.0,11505133.0,4042392.0,2276074.0,,,17823599.0,accrual,gross (RITA data; no refunds line),True,reported,docs/acfr_Avon.txt,S22-S23,
+Avon,2017.0,11386738.0,4023457.0,2392710.0,,,17802905.0,accrual,gross (RITA data; no refunds line),True,reported,docs/acfr_Avon.txt,S22-S23,
+Avon,2018.0,12408728.0,4322883.0,2120908.0,,,18852519.0,accrual,gross (RITA data; no refunds line),True,reported,docs/acfr_Avon.txt,S22-S23,
+Avon,2019.0,13239010.0,4729667.0,2330325.0,,,20299002.0,accrual,gross (RITA data; no refunds line),True,reported,docs/acfr_Avon.txt,S22-S23,
+Avon,2020.0,13022692.0,4539361.0,2417530.0,,,19979583.0,accrual,gross (RITA data; no refunds line),True,reported,docs/acfr_Avon.txt,S22-S23,
+Avon,2021.0,15609996.0,5341970.0,3089303.0,,,24041269.0,accrual,gross (RITA data; no refunds line),True,reported,docs/acfr_Avon.txt,S22-S23,
+Avon,2022.0,18434096.0,5579722.0,3635944.0,,,27649761.0,accrual,gross (RITA data; no refunds line),True,reported,docs/acfr_Avon.txt,S22-S23,
+Avon,2023.0,19834242.0,5433753.0,4571394.0,,,29839389.0,accrual,gross (RITA data; no refunds line),True,reported,docs/acfr_Avon.txt,S22-S23,
+Avon,2024.0,21891489.0,5395943.0,3795188.0,,,31082620.0,accrual,gross (RITA data; no refunds line),True,reported,docs/acfr_Avon.txt,S22-S23,
+Kent,2016.0,13370776.0,1505899.0,1022789.0,,,15899464.0,cash,gross (City Budget and Finance dept table; no refunds line),True,reported,docs/acfr_Kent.txt,S16-S17,
+Kent,2017.0,13839558.0,1570323.0,1113206.0,,,16523087.0,cash,gross (City Budget and Finance dept table; no refunds line),True,reported,docs/acfr_Kent.txt,S16-S17,
+Kent,2018.0,13652263.0,1299374.0,1231238.0,,,16182875.0,cash,gross (City Budget and Finance dept table; no refunds line),True,reported,docs/acfr_Kent.txt,S16-S17,
+Kent,2019.0,13952415.0,1604028.0,1016461.0,,,16572904.0,cash,gross (City Budget and Finance dept table; no refunds line),True,reported,docs/acfr_Kent.txt,S16-S17,
+Kent,2020.0,12268993.0,1313712.0,1421898.0,,,15004603.0,cash,gross (City Budget and Finance dept table; no refunds line),True,reported,docs/acfr_Kent.txt,S16-S17,
+Kent,2021.0,13927209.0,1761619.0,1107309.0,,,16796137.0,cash,gross (City Budget and Finance dept table; no refunds line),True,reported,docs/acfr_Kent.txt,S16-S17,
+Kent,2022.0,15019852.0,1771809.0,1737401.0,,,18529061.0,cash,gross (City Budget and Finance dept table; no refunds line),True,reported,docs/acfr_Kent.txt,S16-S17,
+Kent,2023.0,15431385.0,1980529.0,1723011.0,,,19134925.0,cash,gross (City Budget and Finance dept table; no refunds line),True,reported,docs/acfr_Kent.txt,S16-S17,
+Kent,2024.0,16209855.0,1753231.0,1868438.0,,,19831523.0,cash,gross (City Budget and Finance dept table; no refunds line),True,reported,docs/acfr_Kent.txt,S16-S17,
+Middleburg Heights,2016.0,16224601.0,1222815.0,2472819.0,,,19920234.0,cash,gross (no refunds line),True,reported,docs/acfr_Middleburg_Heights.txt,136-137,
+Middleburg Heights,2017.0,15964093.0,1118613.0,1939274.0,,,19021980.0,cash,gross (no refunds line),True,reported,docs/acfr_Middleburg_Heights.txt,136-137,
+Middleburg Heights,2018.0,16893208.0,1090527.0,2220849.0,,,20204584.0,cash,gross (no refunds line),True,reported,docs/acfr_Middleburg_Heights.txt,136-137,
+Middleburg Heights,2019.0,17629127.0,1254511.0,2166026.0,,,21049663.0,cash,gross (no refunds line),True,reported,docs/acfr_Middleburg_Heights.txt,136-137,
+Middleburg Heights,2020.0,17275076.0,1048993.0,1770530.0,,,20094600.0,cash,gross (no refunds line),True,reported,docs/acfr_Middleburg_Heights.txt,136-137,
+Middleburg Heights,2021.0,19312714.0,1382296.0,2739510.0,,,23390106.0,cash,gross (no refunds line),True,reported,docs/acfr_Middleburg_Heights.txt,136-137,
+Middleburg Heights,2022.0,19486676.0,1316662.0,3916299.0,,,24719637.0,cash,gross (no refunds line),True,reported,docs/acfr_Middleburg_Heights.txt,136-137,
+Middleburg Heights,2023.0,20177989.0,1359332.0,2829436.0,,,24359757.0,cash,gross (no refunds line),True,reported,docs/acfr_Middleburg_Heights.txt,136-137,
+Middleburg Heights,2024.0,20976779.0,1361096.0,2039914.0,,,24377489.0,cash,gross (no refunds line),True,reported,docs/acfr_Middleburg_Heights.txt,136-137,
+Aurora,2016.0,8356979.0,2232772.0,3085534.0,,,13675285.0,not stated (RITA source table),gross (no refunds line),True,reported,docs/acfr_Aurora.txt,149-150,State law prohibits individual-taxpayer-level disclosure but city-level Individuals aggregate is reported
+Aurora,2017.0,8554126.0,2499469.0,3495192.0,,,14538787.0,not stated (RITA source table),gross (no refunds line),True,reported,docs/acfr_Aurora.txt,149-150,State law prohibits individual-taxpayer-level disclosure but city-level Individuals aggregate is reported
+Aurora,2018.0,8904667.0,2484244.0,3006544.0,,,14395455.0,not stated (RITA source table),gross (no refunds line),True,reported,docs/acfr_Aurora.txt,149-150,State law prohibits individual-taxpayer-level disclosure but city-level Individuals aggregate is reported
+Aurora,2019.0,9538770.0,2863033.0,3169580.0,,,15571383.0,not stated (RITA source table),gross (no refunds line),True,reported,docs/acfr_Aurora.txt,149-150,State law prohibits individual-taxpayer-level disclosure but city-level Individuals aggregate is reported
+Aurora,2020.0,9576539.0,2653011.0,2831649.0,,,15061199.0,not stated (RITA source table),gross (no refunds line),True,reported,docs/acfr_Aurora.txt,149-150,State law prohibits individual-taxpayer-level disclosure but city-level Individuals aggregate is reported
+Aurora,2021.0,11412251.0,3051201.0,4357594.0,,,18821047.0,not stated (RITA source table),gross (no refunds line),True,reported,docs/acfr_Aurora.txt,149-150,State law prohibits individual-taxpayer-level disclosure but city-level Individuals aggregate is reported
+Aurora,2022.0,12644573.0,3425484.0,5173184.0,,,21243241.0,not stated (RITA source table),gross (no refunds line),True,reported,docs/acfr_Aurora.txt,149-150,State law prohibits individual-taxpayer-level disclosure but city-level Individuals aggregate is reported
+Aurora,2023.0,13436485.0,3698613.0,6064831.0,,,23199929.0,not stated (RITA source table),gross (no refunds line),True,reported,docs/acfr_Aurora.txt,149-150,State law prohibits individual-taxpayer-level disclosure but city-level Individuals aggregate is reported
+Aurora,2024.0,14974185.0,3420792.0,5009173.0,,,23404150.0,not stated (RITA source table),gross (no refunds line),True,reported,docs/acfr_Aurora.txt,149-150,State law prohibits individual-taxpayer-level disclosure but city-level Individuals aggregate is reported
+Twinsburg,2016.0,16371449.0,1819778.0,2547944.0,,,20739171.0,accrual,gross (no refunds line),True,reported,docs/acfr_Twinsburg.txt,144-145,
+Twinsburg,2017.0,16661202.0,1694339.0,3944927.0,,,22300468.0,accrual,gross (no refunds line),True,reported,docs/acfr_Twinsburg.txt,144-145,
+Twinsburg,2018.0,17238419.0,1664402.0,3798921.0,,,22701742.0,accrual,gross (no refunds line),True,reported,docs/acfr_Twinsburg.txt,144-145,
+Twinsburg,2019.0,17463041.0,1994076.0,3933367.0,,,23390484.0,accrual,gross (no refunds line),True,reported,docs/acfr_Twinsburg.txt,144-145,
+Twinsburg,2020.0,17700918.0,1725740.0,3069009.0,,,22495667.0,accrual,gross (no refunds line),True,reported,docs/acfr_Twinsburg.txt,144-145,
+Twinsburg,2021.0,18055681.0,1720767.0,2864314.0,,,22640762.0,accrual,gross (no refunds line),True,reported,docs/acfr_Twinsburg.txt,144-145,
+Twinsburg,2022.0,18229741.0,2312134.0,4041273.0,,,24583148.0,accrual,gross (no refunds line),True,reported,docs/acfr_Twinsburg.txt,144-145,
+Twinsburg,2023.0,19679651.0,2100582.0,4452404.0,,,26232637.0,accrual,gross (no refunds line),True,reported,docs/acfr_Twinsburg.txt,144-145,
+Twinsburg,2024.0,19398936.0,1960929.0,3929782.0,,,25289647.0,accrual,gross (no refunds line),True,reported,docs/acfr_Twinsburg.txt,144-145,
+Brooklyn,2024.0,15703403.0,863424.0,3140107.0,,,19706935.0,cash,unspecified,true,full_split,docs/acfr_Brooklyn.txt,S20,Source line: Regional Income Tax Agency Records; rate 2.50%
+Brooklyn,2023.0,15198084.0,1021713.0,2526479.0,,,18746277.0,cash,unspecified,true,full_split,docs/acfr_Brooklyn.txt,S20,rate 2.50%
+Brooklyn,2022.0,14455586.0,879801.0,2186698.0,,,17522085.0,cash,unspecified,true,full_split,docs/acfr_Brooklyn.txt,S20,rate 2.50%
+Brooklyn,2021.0,15096243.0,909499.0,3499006.0,,,19504748.0,cash,unspecified,true,full_split,docs/acfr_Brooklyn.txt,S20,rate 2.50%
+Brooklyn,2020.0,13797139.0,839330.0,1200273.0,,,15836742.0,cash,unspecified,true,full_split,docs/acfr_Brooklyn.txt,S20,rate 2.50%
+Brooklyn,2019.0,13599650.0,840967.0,1878886.0,,,16319503.0,cash,unspecified,true,full_split,docs/acfr_Brooklyn.txt,S20,rate 2.50%
+Brooklyn,2018.0,12483616.0,908752.0,778606.0,,,14170974.0,cash,unspecified,true,full_split,docs/acfr_Brooklyn.txt,S20,rate 2.50%
+Brooklyn,2017.0,12711291.0,1163488.0,1321069.0,,,15195848.0,cash,unspecified,true,full_split,docs/acfr_Brooklyn.txt,S20,rate 2.50%
+Brooklyn,2016.0,16671745.0,1130533.0,1204181.0,,,19006459.0,cash,unspecified,true,full_split,docs/acfr_Brooklyn.txt,S20,"rate 2.50%; FY2025 ACFR pulled 2016-2025, 2025 row out of target range and dropped"
+Oxford,2024.0,9498022.0,865923.0,630031.0,,,10993976.0,unspecified,unspecified,true,full_split,docs/acfr_Oxford.txt,168,Source: Regional Income Tax Agency; rate 2.00%; basis not labeled in schedule
+Oxford,2023.0,9261730.0,860708.0,767085.0,,,10889522.0,unspecified,unspecified,true,full_split,docs/acfr_Oxford.txt,168,rate 2.00%
+Oxford,2022.0,8996780.0,911415.0,646762.0,,,10554958.0,unspecified,unspecified,true,full_split,docs/acfr_Oxford.txt,168,rate 2.00%
+Oxford,2021.0,8393121.0,776944.0,481929.0,,,9651994.0,unspecified,unspecified,true,full_split,docs/acfr_Oxford.txt,168,rate 2.00%
+Oxford,2020.0,8337313.0,724390.0,489407.0,,,9551110.0,unspecified,unspecified,true,full_split,docs/acfr_Oxford.txt,168,rate 2.00%
+Oxford,2019.0,8760781.0,905778.0,678997.0,,,10345556.0,unspecified,unspecified,true,full_split,docs/acfr_Oxford.txt,168,rate 2.00%
+Oxford,2018.0,8575632.0,858731.0,687470.0,,,10121832.0,unspecified,unspecified,true,full_split,docs/acfr_Oxford.txt,168,rate 2.00%
+Oxford,2017.0,8322304.0,818770.0,781139.0,,,9904406.0,unspecified,unspecified,true,full_split,docs/acfr_Oxford.txt,168,"rate 2.00%; component percentages sum to 100.19% in source, small rounding break, sums within 1% of total"
+Oxford,2016.0,8025370.0,705835.0,776047.0,,,9507252.0,unspecified,unspecified,true,full_split,docs/acfr_Oxford.txt,168,"rate 2.00%; FY2025 ACFR pulled 2016-2025, 2025 row out of target range and dropped"
+Loveland,2024.0,4293098.0,1804143.0,664978.0,,,6762219.0,cash,net of refunds,true,full_split,docs/acfr_Loveland.txt,S13-S14,Source: City Income Tax Department; rate 1.00%; net_profit column labeled Corporate
+Loveland,2023.0,4007672.0,1883308.0,941558.0,,,6832538.0,cash,net of refunds,true,full_split,docs/acfr_Loveland.txt,S13-S14,rate 1.00%
+Loveland,2022.0,3869885.0,1818604.0,1081788.0,,,6770277.0,cash,net of refunds,true,full_split,docs/acfr_Loveland.txt,S13-S14,rate 1.00%
+Loveland,2021.0,3460927.0,1518256.0,526477.0,,,5505660.0,cash,net of refunds,true,full_split,docs/acfr_Loveland.txt,S13-S14,rate 1.00%
+Loveland,2020.0,2901269.0,1465570.0,294774.0,,,4661613.0,cash,net of refunds,true,full_split,docs/acfr_Loveland.txt,S13-S14,rate 1.00%
+Loveland,2019.0,2697480.0,1383324.0,425472.0,,,4506276.0,cash,net of refunds,true,full_split,docs/acfr_Loveland.txt,S13-S14,rate 1.00%
+Loveland,2018.0,2598637.0,1387684.0,320046.0,,,4306367.0,cash,net of refunds,true,full_split,docs/acfr_Loveland.txt,S13-S14,rate 1.00%
+Loveland,2017.0,2353645.0,1369519.0,457553.0,,,4180717.0,cash,net of refunds,true,full_split,docs/acfr_Loveland.txt,S13-S14,rate 1.00%
+Loveland,2016.0,2348990.0,1268657.0,470445.0,,,4088092.0,cash,net of refunds,true,full_split,docs/acfr_Loveland.txt,S13-S14,rate 1.00%
+Loveland,2015.0,2124522.0,1214471.0,427054.0,,,3766047.0,cash,net of refunds,true,full_split,docs/acfr_Loveland.txt,S13-S14,"rate 1.00%; full 2015-2024 span available, all 10 years captured"
+Beachwood,2024.0,34626256.0,3608570.0,6260491.0,,,44495317.0,full accrual,unspecified,true,full_split,docs/acfr_Beachwood.txt,S9-S10,Source: City Financial Records; rate 2.00%; footnote states total tax collected is on full accrual basis
+Beachwood,2023.0,31159574.0,3572711.0,8520872.0,,,43253157.0,full accrual,unspecified,true,full_split,docs/acfr_Beachwood.txt,S9-S10,rate 2.00%
+Beachwood,2022.0,30028013.0,2991894.0,5937038.0,,,38956945.0,full accrual,unspecified,true,full_split,docs/acfr_Beachwood.txt,S9-S10,rate 2.00%
+Beachwood,2021.0,28763552.0,2956683.0,5992564.0,,,37712799.0,full accrual,unspecified,true,full_split,docs/acfr_Beachwood.txt,S9-S10,rate 2.00%
+Beachwood,2020.0,29982861.0,2931222.0,4762294.0,,,37676377.0,full accrual,unspecified,true,full_split,docs/acfr_Beachwood.txt,S9-S10,rate 2.00%
+Beachwood,2019.0,29725385.0,2976354.0,5456650.0,,,38158389.0,full accrual,unspecified,true,full_split,docs/acfr_Beachwood.txt,S9-S10,rate 2.00%
+Beachwood,2018.0,28929644.0,2649385.0,4038697.0,,,35617726.0,full accrual,unspecified,true,full_split,docs/acfr_Beachwood.txt,S9-S10,rate 2.00%; restated for GASB 84 per footnote
+Beachwood,2017.0,24602663.0,2584837.0,3955112.0,,,31142611.0,full accrual,unspecified,true,full_split,docs/acfr_Beachwood.txt,S9-S10,rate 2.00%
+Beachwood,2016.0,25439429.0,2386909.0,3580364.0,,,31406702.0,full accrual,unspecified,true,full_split,docs/acfr_Beachwood.txt,S9-S10,"rate 2.00%; FY2025 ACFR pulled 2016-2025, 2025 row out of target range and dropped"
+New Albany,2024.0,47657278.0,6267506.0,16689730.0,,,70614514.0,cash,unspecified,true,full_split,docs/acfr_New_Albany.txt,243,"Source: RITA & City financial reports; Government-Wide Income Tax Collections table (city-wide); rate 2.00%; a separate General Fund-only table exists on same page range with smaller allocated amounts, not used here"
+New Albany,2023.0,34774663.0,7122370.0,14500174.0,,,56397207.0,cash,unspecified,true,full_split,docs/acfr_New_Albany.txt,243,rate 2.00%
+New Albany,2022.0,32066325.0,5661026.0,10271576.0,,,47998927.0,cash,unspecified,true,full_split,docs/acfr_New_Albany.txt,243,rate 2.00%
+New Albany,2021.0,34283459.0,5272979.0,10444692.0,,,50001130.0,cash,unspecified,true,full_split,docs/acfr_New_Albany.txt,243,rate 2.00%
+New Albany,2020.0,30218440.0,3657041.0,4679835.0,,,38555316.0,cash,unspecified,true,full_split,docs/acfr_New_Albany.txt,243,rate 2.00%
+New Albany,2019.0,29381373.0,4051757.0,5775177.0,,,39208307.0,cash,unspecified,true,full_split,docs/acfr_New_Albany.txt,243,rate 2.00%
+New Albany,2018.0,26949161.0,4327123.0,4409297.0,,,35685581.0,cash,unspecified,true,full_split,docs/acfr_New_Albany.txt,243,rate 2.00%
+New Albany,2017.0,23386829.0,3738078.0,3539635.0,,,30664542.0,cash,unspecified,true,full_split,docs/acfr_New_Albany.txt,243,rate 2.00%
+New Albany,2016.0,24456634.0,3347729.0,2200794.0,,,30005157.0,cash,unspecified,true,full_split,docs/acfr_New_Albany.txt,243,rate 2.00%
+New Albany,2015.0,21665817.0,3587915.0,3362973.0,,,28616705.0,cash,unspecified,true,full_split,docs/acfr_New_Albany.txt,243,"rate 2.00%; full 2015-2024 span available, all 10 years captured"
+Independence,2016.0,26293071.0,1121476.0,3395238.0,,,30809785.0,GAAP,gross,true,full_split,docs/acfr_Independence.txt,S16,10-yr Income Tax Revenue Base and Collections table; net profits + individuals + withholding sums to total
+Independence,2017.0,26872545.0,1044816.0,3553004.0,,,31470365.0,GAAP,gross,true,full_split,docs/acfr_Independence.txt,S16,same table
+Independence,2018.0,29122416.0,1181430.0,4140171.0,,,34444017.0,GAAP,gross,true,full_split,docs/acfr_Independence.txt,S16,same table
+Independence,2019.0,28235391.0,1301768.0,3776444.0,,,33313603.0,GAAP,gross,true,full_split,docs/acfr_Independence.txt,S16,same table
+Independence,2020.0,29031738.0,1489111.0,3052661.0,,,33573510.0,GAAP,gross,true,full_split,docs/acfr_Independence.txt,S16,same table
+Independence,2021.0,29799389.0,1605886.0,3562033.0,,,34967308.0,GAAP,gross,true,full_split,docs/acfr_Independence.txt,S16,same table
+Independence,2022.0,26876226.0,1508211.0,4353639.0,,,32738076.0,GAAP,gross,true,full_split,docs/acfr_Independence.txt,S16,same table
+Independence,2023.0,27586181.0,1856384.0,4600503.0,,,34043068.0,GAAP,gross,true,full_split,docs/acfr_Independence.txt,S16,same table
+Independence,2024.0,28821359.0,1154280.0,3400889.0,,,33376528.0,GAAP,gross,true,full_split,docs/acfr_Independence.txt,S16,FY2024 ACFR most recent year; 2015 not shown (table only covers 2016-2024)
+Rossford,2016.0,3027153.0,715434.0,392868.0,,,4135455.0,,gross,true,full_split,docs/acfr_Rossford.txt,S13,Income Tax Revenues by Source table; column labeled Corporate mapped to net_profit
+Rossford,2017.0,2998978.0,405076.0,724145.0,,,4128199.0,,gross,true,full_split,docs/acfr_Rossford.txt,S13,same table
+Rossford,2018.0,3190904.0,658066.0,396268.0,,,4245238.0,,gross,true,full_split,docs/acfr_Rossford.txt,S13,same table
+Rossford,2019.0,3421513.0,756793.0,526283.0,,,4704589.0,,gross,true,full_split,docs/acfr_Rossford.txt,S13-S14,same table
+Rossford,2020.0,3478144.0,654702.0,281378.0,,,4414224.0,,gross,true,full_split,docs/acfr_Rossford.txt,S13-S14,same table
+Rossford,2021.0,6393333.0,669882.0,775655.0,,,7838870.0,,gross,true,full_split,docs/acfr_Rossford.txt,S13-S14,same table
+Rossford,2022.0,7391190.0,1002873.0,826253.0,,,9220316.0,,gross,true,full_split,docs/acfr_Rossford.txt,S13-S14,same table
+Rossford,2023.0,7600264.0,887419.0,859101.0,,,9346784.0,,gross,true,full_split,docs/acfr_Rossford.txt,S13-S14,same table
+Rossford,2024.0,8291453.0,821746.0,1197098.0,,,10310296.0,,gross,true,full_split,docs/acfr_Rossford.txt,S13-S14,FY2025 ACFR most recent full year; sum is 10310297 vs reported 10310296 (rounding); 2015 not shown

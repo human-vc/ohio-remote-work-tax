@@ -1,0 +1,472 @@
+member,cls,rita_start,member_on_2019_12_31,tax_rate,credit_factor,credit_cap,source
+aberdeen,village,07/01/2017,1,1.0,100.0,1.0,rita_acfr_2025
+ada,village,01/01/2021,0,,,,rita_acfr_2025
+addyston,village,08/01/2007,1,1.5,100.0,1.5,rita_acfr_2025
+adelphi,village,01/01/2010,1,1.0,0.0,0.0,rita_acfr_2025
+alexandria,village,01/01/2020,0,,,,rita_acfr_2025
+alger,village,01/01/2021,0,,,,rita_acfr_2025
+amanda,village,09/01/2015,1,1.0,0.0,0.0,rita_acfr_2025
+amelia,unmatched,,0,1.0,0.0,0.0,rita_acfr_2025
+amsterdam,village,07/01/2014,1,1.0,100.0,1.0,rita_acfr_2025
+andover,village,01/01/2009,1,1.5,100.0,1.5,rita_acfr_2025
+antwerp,village,01/01/2011,1,1.0,50.0,1.0,rita_acfr_2025
+apple creek,village,01/01/2024,0,,,,rita_acfr_2025
+apple creek east union twp jedd ii,special_district,01/01/2024,0,,,,rita_acfr_2025
+arcanum,village,07/01/2025,0,,,,rita_acfr_2025
+arlington heights,village,01/01/2003,1,2.1,100.0,2.1,rita_acfr_2025
+ashley,village,01/01/2016,1,1.0,0.0,0.0,rita_acfr_2025
+ashville,village,01/01/1998,1,1.0,0.0,0.0,rita_acfr_2025
+aurora,city,01/01/1972,1,2.0,100.0,2.0,rita_acfr_2025
+avon,city,01/31/1974,1,1.75,100.0,1.5,rita_acfr_2025
+avon lake,city,07/01/1997,1,1.5,100.0,1.5,rita_acfr_2025
+bainbridge solon jedd,special_district,01/01/2015,1,2.0,,,rita_acfr_2025
+bainbridge twp aurora jedd,special_district,01/01/2025,0,,,,rita_acfr_2025
+baltic,village,01/01/2014,1,1.5,100.0,1.5,rita_acfr_2025
+baltimore,village,09/01/2011,1,1.0,0.0,0.0,rita_acfr_2025
+barberton,city,01/01/2021,0,,,,rita_acfr_2025
+barnesville,village,01/01/2018,1,1.0,100.0,1.0,rita_acfr_2025
+barnesville jedd i,special_district,01/01/2018,1,1.0,,,rita_acfr_2025
+barnesville jedd ii,special_district,01/01/2018,1,1.0,,,rita_acfr_2025
+batavia,village,07/01/2019,1,1.0,0.0,0.0,rita_acfr_2025
+bay village,city,01/01/1972,1,1.5,100.0,1.0,rita_acfr_2025
+beachwood,city,01/01/1997,1,2.0,100.0,2.0,rita_acfr_2025
+beachwood east jedd,special_district,01/01/2000,1,2.0,,,rita_acfr_2025
+beachwood west jedd,special_district,01/01/2000,1,2.0,,,rita_acfr_2025
+beaverdam,village,01/01/2010,1,1.0,100.0,1.0,rita_acfr_2025
+bedford,city,02/01/2023,0,,,,rita_acfr_2025
+bedford heights,city,01/01/1996,1,2.0,100.0,2.0,rita_acfr_2025
+bellaire,village,07/01/2025,0,,,,rita_acfr_2025
+belle center,village,07/01/2013,1,1.0,100.0,1.0,rita_acfr_2025
+bellefontaine,city,,0,1.33,100.0,0.666,rita_acfr_2025
+bellevue,city,11/01/2007,1,2.0,100.0,2.0,rita_acfr_2025
+bellville,village,07/01/2019,1,1.0,50.0,1.0,rita_acfr_2025
+belpre,city,01/01/2012,1,1.0,100.0,1.0,rita_acfr_2025
+bentleyville,village,10/01/1972,1,1.0,12.5,1.0,rita_acfr_2025
+berea,city,01/01/1972,1,2.0,100.0,1.5,rita_acfr_2025
+bethel,village,01/01/2016,1,0.5,0.0,0.0,rita_acfr_2025
+bettsville,village,04/01/2007,1,1.0,0.0,0.0,rita_acfr_2025
+beverly,village,01/01/2024,0,,,,rita_acfr_2025
+bexley,city,07/01/1996,1,2.5,65.0,2.5,rita_acfr_2025
+blanchester,village,07/01/2024,0,,,,rita_acfr_2025
+bloomdale,village,11/01/2013,1,1.0,0.0,0.0,rita_acfr_2025
+bloomingdale,village,01/01/2012,1,1.0,100.0,1.0,rita_acfr_2025
+bloomville,village,01/01/2019,1,1.0,0.0,0.0,rita_acfr_2025
+boston heights,village,01/01/1986,1,2.0,100.0,2.0,rita_acfr_2025
+boston twp peninsula jedd,special_district,07/01/2015,1,2.0,,,rita_acfr_2025
+bradford,village,10/01/2024,0,,,,rita_acfr_2025
+bratenahl,village,01/01/2021,0,,,,rita_acfr_2025
+brecksville,city,01/01/1972,1,2.0,87.5,2.0,rita_acfr_2025
+bremen,village,12/01/2011,1,1.0,100.0,1.0,rita_acfr_2025
+brice,village,01/01/2019,1,2.0,100.0,2.0,rita_acfr_2025
+bridgeport,village,08/01/2019,1,1.0,0.0,0.0,rita_acfr_2025
+brimfield tallmadge jedd,special_district,12/01/2009,1,1.5,,,rita_acfr_2025
+broadview heights,city,01/01/1972,1,2.0,75.0,2.0,rita_acfr_2025
+brooklyn,city,01/01/2009,1,2.5,100.0,2.5,rita_acfr_2025
+brooklyn heights,village,01/01/1972,1,2.5,100.0,2.5,rita_acfr_2025
+bryan,city,08/01/2021,0,,,,rita_acfr_2025
+buckland,village,07/01/2013,1,1.0,50.0,1.0,rita_acfr_2025
+burbank,village,07/01/2022,0,,,,rita_acfr_2025
+butler,village,07/01/2021,0,,,,rita_acfr_2025
+butler county annexation,unmatched,01/01/2022,0,,,,rita_acfr_2025
+cairo,village,01/01/2011,1,0.5,0.0,0.0,rita_acfr_2025
+caldwell,village,01/01/2022,0,,,,rita_acfr_2025
+camden,village,01/01/2014,1,1.0,0.0,0.0,rita_acfr_2025
+campbell,city,01/01/2005,1,2.5,100.0,2.5,rita_acfr_2025
+canal fulton,city,10/01/2025,0,,,,rita_acfr_2025
+canal winchester,city,01/01/2019,1,2.0,100.0,2.0,rita_acfr_2025
+cardington,village,01/01/2006,1,1.0,100.0,1.0,rita_acfr_2025
+carroll,village,09/01/2011,1,0.75,25.0,0.75,rita_acfr_2025
+carrollton,village,01/01/2019,1,1.0,100.0,0.5,rita_acfr_2025
+catawba,village,01/01/2014,1,1.0,0.0,0.0,rita_acfr_2025
+cecil,village,01/01/2004,1,1.0,50.0,1.0,rita_acfr_2025
+cedarville,village,02/10/2003,1,1.25,100.0,1.25,rita_acfr_2025
+centerburg,village,01/01/2003,1,1.0,0.0,0.0,rita_acfr_2025
+chagrin falls,village,01/01/1972,1,1.85,75.0,1.85,rita_acfr_2025
+chardon,city,01/01/2011,1,2.0,50.0,2.0,rita_acfr_2025
+chesterville,village,07/01/2018,1,1.0,0.0,0.0,rita_acfr_2025
+circleville,city,07/01/2003,1,2.0,100.0,2.0,rita_acfr_2025
+circleville pickaway twp jedd,special_district,11/01/2016,1,2.0,,,rita_acfr_2025
+clarksville,village,07/01/2016,1,1.0,0.0,0.0,rita_acfr_2025
+cleveland heights,city,07/01/2011,1,2.25,50.0,1.0,rita_acfr_2025
+clinton,village,01/01/2012,1,1.0,0.0,0.0,rita_acfr_2025
+clinton grandview heights jedd,special_district,,0,2.5,,,rita_acfr_2025
+coal grove,village,11/01/2024,0,,,,rita_acfr_2025
+college corner,village,,0,,,,rita_acfr_2025
+columbiana,city,07/01/2019,1,1.0,100.0,0.5,rita_acfr_2025
+commercial point,village,01/01/2009,1,0.75,0.0,0.0,rita_acfr_2025
+conesville,village,01/01/2015,1,0.5,0.0,0.0,rita_acfr_2025
+continental,village,01/01/2012,1,1.0,100.0,1.0,rita_acfr_2025
+corwin,village,01/01/2007,1,0.5,100.0,0.5,rita_acfr_2025
+crestline,village,07/01/2019,1,2.0,100.0,1.5,rita_acfr_2025
+creston,village,01/01/2024,0,,,,rita_acfr_2025
+crooksville,village,01/01/2023,0,,,,rita_acfr_2025
+cuyahoga falls,city,01/01/2019,1,2.0,100.0,2.0,rita_acfr_2025
+cuyahoga falls boston twp jedd,special_district,01/01/2019,1,2.0,,,rita_acfr_2025
+cuyahoga heights,village,01/01/1972,1,2.5,100.0,2.5,rita_acfr_2025
+danville,village,07/01/2012,1,1.5,0.0,0.0,rita_acfr_2025
+darbyville,village,10/01/2016,1,1.0,0.0,0.0,rita_acfr_2025
+degraff,unmatched,07/01/2016,1,1.0,50.0,1.0,rita_acfr_2025
+dennison,village,12/01/2012,1,2.0,100.0,2.0,rita_acfr_2025
+dorr street jedd,special_district,01/01/2020,0,,,,rita_acfr_2025
+doylestown,village,01/01/2022,0,,,,rita_acfr_2025
+dresden,village,02/01/2025,0,,,,rita_acfr_2025
+dunkirk,village,01/01/2020,0,,,,rita_acfr_2025
+east cleveland,city,10/01/1974,1,2.0,0.0,0.0,rita_acfr_2025
+east palestine,village,06/01/2006,1,1.0,0.0,0.0,rita_acfr_2025
+east union twp apple creek jedd,special_district,01/01/2024,0,,,,rita_acfr_2025
+eastlake,city,07/01/2015,1,2.0,100.0,2.0,rita_acfr_2025
+eaton,city,07/01/2014,1,1.5,100.0,1.5,rita_acfr_2025
+eaton jedd,special_district,01/01/2012,1,2.25,,,rita_acfr_2025
+edgerton,village,09/01/2016,1,1.75,100.0,1.75,rita_acfr_2025
+edison,village,01/01/2009,1,0.5,0.0,0.0,rita_acfr_2025
+elmore,village,10/01/2017,1,1.75,0.0,0.0,rita_acfr_2025
+elmwood place,village,07/01/2016,1,2.0,100.0,2.0,rita_acfr_2025
+elyria,city,01/01/1972,1,2.25,100.0,2.25,rita_acfr_2025
+elyria jedd,special_district,07/01/2003,1,2.25,,,rita_acfr_2025
+empire,village,01/01/2015,1,1.0,100.0,1.0,rita_acfr_2025
+etna reynoldsburg jedd 1,special_district,12/21/2015,1,2.0,,,rita_acfr_2025
+etna reynoldsburg jedd 2,special_district,12/21/2015,1,2.0,,,rita_acfr_2025
+etna reynoldsburg jedd 3,special_district,08/01/2017,1,2.0,,,rita_acfr_2025
+etna reynoldsburg jedd 4,special_district,08/30/2019,1,2.0,,,rita_acfr_2025
+etna reynoldsburg jedd 7,special_district,08/31/2021,0,,,,rita_acfr_2025
+euclid,city,02/01/2021,0,,,,rita_acfr_2025
+evans farm jedd,special_district,07/27/2020,0,,,,rita_acfr_2025
+fairborn,city,09/01/2007,1,1.5,100.0,1.5,rita_acfr_2025
+fairport harbor,village,01/01/2003,1,2.0,100.0,2.0,rita_acfr_2025
+fairview park,city,01/01/1972,1,2.0,75.0,1.25,rita_acfr_2025
+fayette,village,10/01/2017,1,1.5,100.0,1.5,rita_acfr_2025
+fayetteville,village,01/01/2023,0,,,,rita_acfr_2025
+felicity,village,01/01/2018,1,1.0,100.0,1.0,rita_acfr_2025
+forest,village,01/01/2023,0,,,,rita_acfr_2025
+fort jennings,village,01/01/2002,1,1.0,100.0,1.0,rita_acfr_2025
+fostoria,city,10/01/2016,1,2.0,0.0,0.0,rita_acfr_2025
+frazeysburg,village,01/01/2021,0,,,,rita_acfr_2025
+fredericktown,unmatched,07/01/2008,1,1.0,50.0,1.0,rita_acfr_2025
+fremont,city,01/01/2005,1,1.5,100.0,1.5,rita_acfr_2025
+fulton,village,01/01/2020,0,,,,rita_acfr_2025
+gahanna,city,01/01/2010,1,2.5,100.0,2.5,rita_acfr_2025
+galena,village,07/01/1997,1,1.0,0.0,0.0,rita_acfr_2025
+galion,city,07/01/2005,1,2.0,100.0,1.0,rita_acfr_2025
+garfield heights,city,01/01/1972,1,2.0,100.0,2.0,rita_acfr_2025
+gates mills,village,07/01/2020,0,,,,rita_acfr_2025
+genoa,village,01/01/2020,0,,,,rita_acfr_2025
+gettysburg,village,01/01/2017,1,1.0,100.0,1.0,rita_acfr_2025
+gibsonburg,village,07/01/2021,0,,,,rita_acfr_2025
+girard,city,01/01/2005,1,2.0,100.0,2.0,rita_acfr_2025
+glenmont,village,07/01/2024,0,,,,rita_acfr_2025
+glenwillow,village,01/01/1997,1,2.0,100.0,2.0,rita_acfr_2025
+golf manor,village,07/01/2018,1,1.7,100.0,1.7,rita_acfr_2025
+grafton,village,12/01/2006,1,1.5,100.0,1.5,rita_acfr_2025
+grandview heights,city,01/01/1998,1,2.5,100.0,2.5,rita_acfr_2025
+gratis,village,01/01/2014,1,1.0,0.0,0.0,rita_acfr_2025
+green springs,village,07/01/2025,0,,,,rita_acfr_2025
+greenfield,village,01/01/2019,1,1.625,100.0,1.625,rita_acfr_2025
+greenhills,village,09/01/2011,1,1.5,100.0,0.5,rita_acfr_2025
+grove city,city,07/01/2004,1,2.0,100.0,2.0,rita_acfr_2025
+groveport,city,01/01/2019,1,2.0,100.0,2.0,rita_acfr_2025
+ham fair twp jedd i,special_district,01/01/2022,0,,,,rita_acfr_2025
+ham fair twp jedd ii,special_district,01/01/2022,0,,,,rita_acfr_2025
+ham fair twp jedd iii,special_district,01/01/2022,0,,,,rita_acfr_2025
+hamersville,village,01/01/2025,0,,,,rita_acfr_2025
+hamilton,city,01/01/2022,0,,,,rita_acfr_2025
+hanging rock,village,02/01/2025,0,,,,rita_acfr_2025
+hanover,village,01/01/2017,1,1.0,100.0,1.0,rita_acfr_2025
+harrisburg,village,01/01/2019,1,1.0,0.0,0.0,rita_acfr_2025
+harrison,city,11/01/2011,1,1.0,100.0,1.0,rita_acfr_2025
+harrison twp jedd,special_district,11/01/2011,1,1.0,,,rita_acfr_2025
+harrod,village,01/01/2012,1,1.0,0.0,0.0,rita_acfr_2025
+haskins,village,01/01/2004,1,1.0,50.0,1.0,rita_acfr_2025
+helena,village,01/01/2021,0,,,,rita_acfr_2025
+highland heights,city,01/01/1972,1,2.0,100.0,2.0,rita_acfr_2025
+hilliard,city,07/01/2007,1,2.0,100.0,2.0,rita_acfr_2025
+hiram,village,07/01/2014,1,2.25,100.0,2.25,rita_acfr_2025
+holland,village,07/01/2015,1,2.25,100.0,2.25,rita_acfr_2025
+holland springfield twp jedd,special_district,,0,1.5,,,rita_acfr_2025
+holmesville,village,07/01/2024,0,,,,rita_acfr_2025
+hopedale,village,10/01/2013,1,1.0,100.0,1.0,rita_acfr_2025
+hudson,city,07/01/1980,1,2.0,100.0,2.0,rita_acfr_2025
+huron,city,12/01/2010,1,1.0,0.0,0.0,rita_acfr_2025
+independence,city,01/01/1972,1,2.0,100.0,2.0,rita_acfr_2025
+jackson,city,07/01/2018,1,,,,rita_acfr_2025
+jackson center,village,11/01/2008,1,1.5,100.0,1.5,rita_acfr_2025
+jeffersonville,village,07/01/2016,1,1.0,50.0,1.0,rita_acfr_2025
+jerry city,village,01/01/2013,1,1.0,0.0,0.0,rita_acfr_2025
+jewett,village,01/01/2005,1,1.0,100.0,1.0,rita_acfr_2025
+johnstown,village,11/01/2009,1,1.0,0.0,0.0,rita_acfr_2025
+kent,city,01/01/2009,1,2.25,100.0,2.25,rita_acfr_2025
+killbuck,village,01/01/2010,1,1.0,100.0,1.0,rita_acfr_2025
+kirkersville,village,07/01/2017,1,1.0,0.0,0.0,rita_acfr_2025
+kirtland,city,07/01/1991,1,2.0,100.0,1.75,rita_acfr_2025
+lagrange,village,02/01/1981,1,1.5,100.0,1.5,rita_acfr_2025
+lakeline,village,01/01/2012,1,1.0,0.0,0.0,rita_acfr_2025
+lakemore,village,06/01/1988,1,2.25,100.0,2.25,rita_acfr_2025
+latty,village,01/01/2021,0,,,,rita_acfr_2025
+leesburg,village,02/01/2020,0,,,,rita_acfr_2025
+leetonia,village,07/01/2017,1,1.5,50.0,1.0,rita_acfr_2025
+liberty center,village,01/01/2019,1,1.0,50.0,1.0,rita_acfr_2025
+lincoln heights,village,10/01/2022,0,,,,rita_acfr_2025
+lithopolis,village,01/01/2007,1,1.5,0.0,0.0,rita_acfr_2025
+lockbourne,village,01/01/2009,1,1.0,0.0,0.0,rita_acfr_2025
+lockington,village,01/01/2022,0,,,,rita_acfr_2025
+lockland,village,07/01/1996,1,2.1,100.0,2.1,rita_acfr_2025
+lodi,village,01/01/2018,1,1.0,0.0,0.0,rita_acfr_2025
+loveland,city,01/01/2010,1,1.0,100.0,1.0,rita_acfr_2025
+lowellville,village,10/01/2015,1,2.0,100.0,2.0,rita_acfr_2025
+lyndhurst,city,01/01/1972,1,2.0,50.0,2.0,rita_acfr_2025
+lyons,village,11/01/2016,1,1.0,0.0,0.0,rita_acfr_2025
+macedonia,city,10/01/2004,1,2.5,100.0,2.5,rita_acfr_2025
+macedonia northfield jedd,special_district,,0,2.5,,,rita_acfr_2025
+madison village,unmatched,01/01/2017,1,1.0,0.0,0.0,rita_acfr_2025
+maineville,village,10/01/2002,1,1.0,50.0,1.0,rita_acfr_2025
+malinta,village,01/01/2022,0,,,,rita_acfr_2025
+malvern,village,07/01/2018,1,1.0,100.0,1.0,rita_acfr_2025
+manchester,village,07/01/2009,1,1.0,100.0,1.0,rita_acfr_2025
+mantua village,unmatched,01/01/2020,0,,,,rita_acfr_2025
+maple heights,city,01/01/1972,1,2.5,100.0,2.5,rita_acfr_2025
+marengo,village,12/01/2016,1,1.0,0.0,0.0,rita_acfr_2025
+marengo bennington twp jedd,special_district,01/01/2024,0,,,,rita_acfr_2025
+martins ferry,city,01/01/2002,1,1.0,100.0,1.0,rita_acfr_2025
+mayfield heights,city,01/01/1972,1,1.0,50.0,1.0,rita_acfr_2025
+mayfield village,unmatched,01/01/1972,1,2.0,100.0,2.0,rita_acfr_2025
+mcclure,village,07/01/2010,1,1.0,0.0,0.0,rita_acfr_2025
+mcdonald,village,11/01/2013,1,2.0,100.0,2.0,rita_acfr_2025
+mechanicsburg,village,01/01/2005,1,1.0,0.0,0.0,rita_acfr_2025
+medina,city,01/01/2018,1,1.25,25.0,0.75,rita_acfr_2025
+medina montville jedd,special_district,01/01/2018,1,1.25,,,rita_acfr_2025
+melrose,village,01/01/2010,1,1.0,0.0,0.0,rita_acfr_2025
+mentor,city,01/01/2008,1,2.0,100.0,2.0,rita_acfr_2025
+metamora,village,01/01/2010,1,1.0,50.0,1.0,rita_acfr_2025
+middle point,village,01/01/2010,1,1.5,100.0,1.0,rita_acfr_2025
+middleburg heights,city,01/01/1972,1,2.0,100.0,2.0,rita_acfr_2025
+middleport,village,07/01/2008,1,1.0,100.0,1.0,rita_acfr_2025
+midvale,village,05/01/2017,1,1.0,100.0,1.0,rita_acfr_2025
+mifflin,village,01/01/2011,1,1.0,0.0,0.0,rita_acfr_2025
+milan,village,04/01/1995,1,1.0,0.0,0.0,rita_acfr_2025
+milford,city,01/01/2007,1,1.0,0.0,0.0,rita_acfr_2025
+milford center,village,01/01/1998,1,1.0,0.0,0.0,rita_acfr_2025
+milford jedd,special_district,07/01/2007,1,1.0,,,rita_acfr_2025
+milford jedd ii,special_district,05/01/2012,1,1.0,,,rita_acfr_2025
+milford jedd iii,special_district,06/01/2013,1,1.0,,,rita_acfr_2025
+milford jedd iv,special_district,10/01/2013,1,1.0,,,rita_acfr_2025
+milford jedd v,special_district,07/01/2018,1,1.0,,,rita_acfr_2025
+milford jedd vi,special_district,08/01/2019,1,1.0,,,rita_acfr_2025
+milford jedd vii,special_district,02/01/2021,0,,,,rita_acfr_2025
+milford jedd viii,special_district,04/01/2025,0,,,,rita_acfr_2025
+millbury,village,01/01/2024,0,,,,rita_acfr_2025
+miller city,village,01/01/2011,1,1.0,100.0,1.0,rita_acfr_2025
+millersport,village,07/01/2016,1,1.0,0.0,0.0,rita_acfr_2025
+millville,village,07/01/2025,0,,,,rita_acfr_2025
+mineral city,village,11/01/2010,1,1.0,100.0,1.0,rita_acfr_2025
+minerva,village,07/01/2022,0,,,,rita_acfr_2025
+minerva park,village,01/01/2005,1,2.0,0.0,0.0,rita_acfr_2025
+mingo junction,village,01/01/2010,1,2.0,100.0,2.0,rita_acfr_2025
+mogadore,village,01/01/1983,1,2.5,100.0,2.5,rita_acfr_2025
+monroeville,village,01/01/2021,0,,,,rita_acfr_2025
+montgomery,city,10/01/2023,0,,,,rita_acfr_2025
+moreland hills,village,01/01/1972,1,1.0,0.0,0.0,rita_acfr_2025
+morral,village,10/01/2013,1,1.0,0.0,0.0,rita_acfr_2025
+moscow,village,07/01/2011,1,,,,rita_acfr_2025
+mount sterling,village,10/01/1991,1,1.0,0.0,0.0,rita_acfr_2025
+mount victory,village,07/18/2013,1,1.0,0.0,0.0,rita_acfr_2025
+mt healthy,unmatched,01/01/2014,1,2.0,100.0,1.6,rita_acfr_2025
+napoleon,city,07/01/2022,0,,,,rita_acfr_2025
+nashville,village,01/01/2022,0,,,,rita_acfr_2025
+nelsonville,city,01/01/2023,0,,,,rita_acfr_2025
+new albany,city,06/01/1993,1,2.0,100.0,2.0,rita_acfr_2025
+new bavaria,village,07/01/2011,1,1.0,0.0,0.0,rita_acfr_2025
+new bloomington,village,07/01/2002,1,1.0,50.0,1.0,rita_acfr_2025
+new boston,village,08/01/2025,0,,,,rita_acfr_2025
+new concord,village,01/01/2025,0,,,,rita_acfr_2025
+new franklin,city,01/01/2008,1,2.0,100.0,2.0,rita_acfr_2025
+new lebanon,village,10/01/2025,0,,,,rita_acfr_2025
+new richmond,village,01/01/2010,1,1.0,50.0,1.0,rita_acfr_2025
+new riegel,village,01/01/2014,1,1.0,100.0,0.5,rita_acfr_2025
+new washington,village,01/01/2018,1,1.5,100.0,0.75,rita_acfr_2025
+new waterford,village,10/01/2006,1,1.0,50.0,1.0,rita_acfr_2025
+newburgh heights,village,01/01/1972,1,2.0,75.0,1.0,rita_acfr_2025
+newcomerstown,village,10/01/2011,1,2.0,100.0,2.0,rita_acfr_2025
+newton falls,village,01/01/2018,1,1.0,100.0,1.0,rita_acfr_2025
+newtonsville,unmatched,,0,1.0,0.0,0.0,rita_acfr_2025
+newtown,village,09/01/1997,1,1.0,100.0,1.0,rita_acfr_2025
+ney,village,01/01/2016,1,1.0,0.0,0.0,rita_acfr_2025
+niles,city,01/01/2018,1,2.0,100.0,2.0,rita_acfr_2025
+north canton,city,07/01/2016,1,1.5,100.0,1.5,rita_acfr_2025
+north college hill,city,07/01/2018,1,1.5,0.0,0.0,rita_acfr_2025
+north hampton,village,07/01/2025,0,,,,rita_acfr_2025
+north lewisburg,village,07/01/1995,1,1.0,0.0,0.0,rita_acfr_2025
+north olmsted,city,01/01/1972,1,2.0,100.0,2.0,rita_acfr_2025
+north perry,village,01/01/2021,0,,,,rita_acfr_2025
+north ridgeville,city,01/01/2013,1,1.0,10.0,1.0,rita_acfr_2025
+north robinson,village,01/01/2014,1,1.0,0.0,0.0,rita_acfr_2025
+north royalton,city,01/01/2000,1,2.0,100.0,1.25,rita_acfr_2025
+northfield village,unmatched,01/01/2017,1,2.0,100.0,2.0,rita_acfr_2025
+northwood,city,01/01/2024,0,,,,rita_acfr_2025
+norton,city,01/01/2021,0,,,,rita_acfr_2025
+norton barberton jedz,special_district,01/01/2021,0,,,,rita_acfr_2025
+norwalk,city,01/01/2017,1,1.5,100.0,1.5,rita_acfr_2025
+oak harbor,village,01/01/2020,0,,,,rita_acfr_2025
+oak hill,village,04/01/2014,1,0.5,0.0,0.0,rita_acfr_2025
+oakwood village,unmatched,,0,2.5,100.0,2.5,rita_acfr_2025
+oberlin,city,01/01/2002,1,2.5,100.0,2.5,rita_acfr_2025
+octa,village,02/01/2023,0,,,,rita_acfr_2025
+olmsted falls,city,01/01/1973,1,1.5,50.0,1.5,rita_acfr_2025
+orange,village,01/01/1972,1,2.0,60.0,1.5,rita_acfr_2025
+orange chagrin highland jedd,special_district,01/01/2000,1,2.0,,,rita_acfr_2025
+orange township jedd,special_district,10/01/2024,0,,,,rita_acfr_2025
+orrville,city,02/01/2022,0,,,,rita_acfr_2025
+ostrander,village,01/01/2017,1,1.0,100.0,1.0,rita_acfr_2025
+ottawa,village,10/01/1997,1,1.0,0.0,0.0,rita_acfr_2025
+ottawa hills,village,01/01/2024,0,,,,rita_acfr_2025
+owensville,village,07/01/2013,1,1.0,0.0,0.0,rita_acfr_2025
+oxford,city,08/01/2007,1,2.0,100.0,2.0,rita_acfr_2025
+painesville,city,01/01/2013,1,2.0,100.0,2.0,rita_acfr_2025
+painesville concord jedd,special_district,01/01/2013,1,1.75,,,rita_acfr_2025
+parma heights,city,01/01/2021,0,,,,rita_acfr_2025
+pataskala,city,07/01/2010,1,1.0,0.0,0.0,rita_acfr_2025
+patterson,village,04/01/2014,1,0.5,0.0,0.0,rita_acfr_2025
+payne,village,09/01/2018,1,1.0,0.0,0.0,rita_acfr_2025
+peninsula,village,07/01/2015,1,2.0,100.0,2.0,rita_acfr_2025
+pepper pike,city,01/01/1972,1,1.0,50.0,1.0,rita_acfr_2025
+perry,village,01/01/2009,1,2.0,100.0,2.0,rita_acfr_2025
+perry jedd,special_district,01/01/2009,1,1.0,,,rita_acfr_2025
+piketon,village,09/01/2005,1,1.0,0.0,0.0,rita_acfr_2025
+piqua,city,10/01/2022,0,,,,rita_acfr_2025
+plain city,village,,0,1.5,0.0,0.0,rita_acfr_2025
+pleasant hill,village,03/01/2009,1,0.75,0.0,0.0,rita_acfr_2025
+pleasantville,village,10/01/2013,1,1.0,0.0,0.0,rita_acfr_2025
+pomeroy,village,07/01/2019,1,1.0,100.0,1.0,rita_acfr_2025
+portage,village,01/01/2009,1,1.0,0.0,0.0,rita_acfr_2025
+powell,city,06/01/1993,1,0.75,100.0,0.25,rita_acfr_2025
+powhatan point,village,01/01/2006,1,1.0,50.0,1.0,rita_acfr_2025
+quincy,village,07/01/2010,1,1.0,0.0,0.0,rita_acfr_2025
+ravenna,city,01/01/2015,1,2.5,100.0,2.5,rita_acfr_2025
+ravenna rootstown twp jedd,special_district,01/01/2024,0,,,,rita_acfr_2025
+reminderville,village,08/01/1972,1,1.5,0.0,0.0,rita_acfr_2025
+reminderville twinsburg twp jedd,special_district,01/01/2003,1,1.5,,,rita_acfr_2025
+reynoldsburg,city,01/01/1995,1,2.5,100.0,2.5,rita_acfr_2025
+reynoldsburg enterprise zone,unmatched,,0,2.5,,,rita_acfr_2025
+richmond heights,city,01/01/1972,1,2.25,100.0,1.25,rita_acfr_2025
+richwood,village,03/01/1995,1,1.0,0.0,0.0,rita_acfr_2025
+ridgeway,village,10/10/2002,1,0.5,0.0,0.0,rita_acfr_2025
+rio grande,village,07/01/2013,1,1.5,100.0,1.5,rita_acfr_2025
+ripley,village,10/01/2008,1,1.0,100.0,1.0,rita_acfr_2025
+risingsun,village,01/01/2020,0,,,,rita_acfr_2025
+rittman,city,07/01/2021,0,,,,rita_acfr_2025
+riverside,city,,0,1.5,100.0,0.75,rita_acfr_2025
+rocky river,city,01/01/2016,1,2.0,100.0,1.5,rita_acfr_2025
+rossford,city,07/01/2009,1,2.25,100.0,2.25,rita_acfr_2025
+rush twp uhrichsville jedd,special_district,07/01/2014,1,2.0,,,rita_acfr_2025
+rushville,village,01/01/2025,0,,,,rita_acfr_2025
+rutland,village,01/01/2023,0,,,,rita_acfr_2025
+sabina,village,06/01/2001,1,1.5,50.0,1.5,rita_acfr_2025
+salem,city,01/01/2021,0,,,,rita_acfr_2025
+salineville,village,01/01/1994,1,1.0,0.0,0.0,rita_acfr_2025
+sandusky,city,01/01/2003,1,1.25,0.0,0.0,rita_acfr_2025
+sardinia,village,10/01/2010,1,1.0,0.0,0.0,rita_acfr_2025
+scioto twp jedd,special_district,01/01/2015,1,2.0,,,rita_acfr_2025
+sebring,village,01/01/2018,1,2.0,100.0,2.0,rita_acfr_2025
+seven hills,city,01/01/1972,1,2.5,100.0,1.65,rita_acfr_2025
+shaker heights,city,01/01/1972,1,2.25,50.0,1.0,rita_acfr_2025
+shalersville twp jedd,special_district,12/01/2022,0,,,,rita_acfr_2025
+sharon twp jedd,special_district,10/01/2021,0,,,,rita_acfr_2025
+shawnee hills,village,04/01/1994,1,2.0,100.0,1.75,rita_acfr_2025
+sheffield lake,city,07/01/2003,1,2.0,50.0,1.0,rita_acfr_2025
+sheffield village,unmatched,01/01/1972,1,2.0,100.0,2.0,rita_acfr_2025
+sherwood,village,,0,,,,rita_acfr_2025
+silver lake,village,10/01/1994,1,2.0,100.0,2.0,rita_acfr_2025
+silverton,village,07/01/2008,1,1.25,0.0,0.0,rita_acfr_2025
+smithfield,unmatched,,0,1.0,0.0,0.0,rita_acfr_2025
+smithville,village,02/01/2023,0,,,,rita_acfr_2025
+solon,city,01/01/2015,1,2.0,100.0,2.0,rita_acfr_2025
+south amherst,village,10/01/2022,0,,,,rita_acfr_2025
+south bloomfield,village,02/01/2024,0,,,,rita_acfr_2025
+south charleston,village,12/01/2008,1,1.25,100.0,1.25,rita_acfr_2025
+south euclid,city,01/01/1972,1,2.0,0.0,0.0,rita_acfr_2025
+south solon,village,07/01/2014,1,1.0,100.0,0.5,rita_acfr_2025
+south vienna,village,01/01/2017,1,1.0,0.0,0.0,rita_acfr_2025
+spencerville,village,01/01/2023,0,,,,rita_acfr_2025
+springfield,city,07/01/2025,0,,,,rita_acfr_2025
+springfield beckley airport jedd,special_district,07/01/2025,0,,,,rita_acfr_2025
+springfield twp jedz 1,special_district,,0,1.5,,,rita_acfr_2025
+st clairsville,city,04/01/2011,1,0.75,50.0,0.75,rita_acfr_2025
+st louisville,village,01/01/2017,1,1.0,0.0,0.0,rita_acfr_2025
+st paris,village,07/01/1997,1,1.0,0.0,0.0,rita_acfr_2025
+steubenville,city,09/01/1995,1,2.0,100.0,2.0,rita_acfr_2025
+stockport,village,07/01/2023,0,,,,rita_acfr_2025
+stone creek,village,07/01/2022,0,,,,rita_acfr_2025
+stoutsville,village,01/01/2018,1,1.0,0.0,0.0,rita_acfr_2025
+stratton,village,08/01/2008,1,1.0,100.0,1.0,rita_acfr_2025
+streetsboro,city,01/01/1972,1,2.0,100.0,2.0,rita_acfr_2025
+strongsville,city,01/01/1972,1,2.0,75.0,2.0,rita_acfr_2025
+sugar grove,village,10/01/2011,1,0.75,50.0,0.75,rita_acfr_2025
+sugarcreek,village,09/01/2012,1,1.5,100.0,1.5,rita_acfr_2025
+sunbury,village,01/01/1999,1,1.0,0.0,0.0,rita_acfr_2025
+swanton,village,07/01/2009,1,1.5,50.0,1.0,rita_acfr_2025
+sycamore,village,09/01/2013,1,1.0,50.0,1.0,rita_acfr_2025
+sycamore township city of montgomery jedd,special_district,11/01/2025,0,,,,rita_acfr_2025
+tallmadge,city,12/01/2009,1,2.0,100.0,2.0,rita_acfr_2025
+thurston,village,07/01/2010,1,1.0,0.0,0.0,rita_acfr_2025
+timberlake,village,10/01/2020,0,,,,rita_acfr_2025
+tiro,village,07/01/2013,1,1.0,0.0,0.0,rita_acfr_2025
+tontogany,village,09/01/2006,1,1.0,100.0,1.0,rita_acfr_2025
+toronto,city,10/01/1992,1,2.0,100.0,2.0,rita_acfr_2025
+tremont city,village,07/01/2009,1,1.0,0.0,0.0,rita_acfr_2025
+trimble,village,07/01/2015,1,1.0,0.0,0.0,rita_acfr_2025
+tuscarawas,village,07/01/2022,0,,,,rita_acfr_2025
+twinsburg,city,01/01/2007,1,2.0,100.0,2.0,rita_acfr_2025
+uhrichsville,city,09/01/2006,1,2.0,100.0,2.0,rita_acfr_2025
+union city,village,02/01/2025,0,,,,rita_acfr_2025
+union twp village of batavia jedd 9,special_district,06/01/2025,0,,,,rita_acfr_2025
+university heights,city,01/01/1972,1,2.5,100.0,1.0,rita_acfr_2025
+upper arlington,city,01/01/1988,1,2.5,100.0,2.5,rita_acfr_2025
+urbana,city,02/01/2024,0,,,,rita_acfr_2025
+urbancrest,village,01/01/2003,1,2.0,100.0,2.0,rita_acfr_2025
+utica,village,07/01/2022,0,,,,rita_acfr_2025
+valley view,village,01/01/1972,1,2.0,100.0,2.0,rita_acfr_2025
+valleyview,village,01/01/2012,1,,,,rita_acfr_2025
+vermilion,city,10/01/1999,1,1.5,100.0,0.5,rita_acfr_2025
+violet township canal winchester jedd,special_district,01/01/2024,0,,,,rita_acfr_2025
+wadsworth,city,01/01/2016,1,1.4,100.0,1.0,rita_acfr_2025
+wakeman,village,07/01/1995,1,1.0,0.0,0.0,rita_acfr_2025
+walton hills,village,01/01/2023,0,,,,rita_acfr_2025
+warrensville heights,city,01/01/2021,0,,,,rita_acfr_2025
+warrensville heights jedz,special_district,01/01/2021,0,,,,rita_acfr_2025
+warsaw,village,07/01/2023,0,,,,rita_acfr_2025
+washingtonville,village,01/01/2018,1,0.5,0.0,0.0,rita_acfr_2025
+waterville,city,01/01/2013,1,2.0,100.0,1.5,rita_acfr_2025
+wayne lakes,village,01/01/2019,1,1.0,0.0,0.0,rita_acfr_2025
+waynesfield,village,01/01/2025,0,,,,rita_acfr_2025
+waynesville,village,07/01/2010,1,0.5,0.0,0.0,rita_acfr_2025
+wellington,village,01/01/2013,1,1.75,100.0,1.75,rita_acfr_2025
+wellston,city,06/01/2001,1,1.0,100.0,1.0,rita_acfr_2025
+wellsville,village,02/01/2004,1,1.5,50.0,1.5,rita_acfr_2025
+west alexandria,village,07/01/2021,0,,,,rita_acfr_2025
+west elkton,village,01/01/2006,1,1.0,100.0,1.0,rita_acfr_2025
+west lafayette,village,10/01/2017,1,1.5,100.0,1.5,rita_acfr_2025
+west liberty,village,01/01/2020,0,,,,rita_acfr_2025
+west mansfield,village,01/01/2013,1,1.0,0.0,0.0,rita_acfr_2025
+west salem,village,10/01/2020,0,,,,rita_acfr_2025
+west unity,village,07/01/2020,0,,,,rita_acfr_2025
+westlake,city,01/01/1972,1,1.5,100.0,1.5,rita_acfr_2025
+weston,village,01/01/2007,1,1.0,0.0,0.0,rita_acfr_2025
+whitehouse,village,01/01/2019,1,1.5,100.0,0.75,rita_acfr_2025
+wickliffe,city,10/01/2017,1,2.0,100.0,2.0,rita_acfr_2025
+williamsburg,village,12/01/2011,1,1.0,100.0,1.0,rita_acfr_2025
+williamsburg jedd,special_district,07/01/2018,1,1.0,,,rita_acfr_2025
+williamsport,village,01/01/2018,1,0.5,0.0,0.0,rita_acfr_2025
+willoughby,city,01/01/2008,1,2.0,100.0,2.0,rita_acfr_2025
+willoughby hills,city,01/01/2009,1,2.0,100.0,1.5,rita_acfr_2025
+willowick,city,01/01/1988,1,2.0,87.5,2.0,rita_acfr_2025
+willshire,village,07/01/2007,1,1.0,0.0,0.0,rita_acfr_2025
+windham,village,07/01/2018,1,1.5,100.0,0.5,rita_acfr_2025
+wintersville,village,07/01/1995,1,1.0,100.0,1.0,rita_acfr_2025
+woodlawn,village,01/01/2021,0,,,,rita_acfr_2025
+woodmere,village,01/01/1972,1,2.5,100.0,2.5,rita_acfr_2025
+woodsfield,village,01/01/2020,0,,,,rita_acfr_2025
+woodstock,village,07/01/2006,1,1.0,0.0,0.0,rita_acfr_2025
+worthington,city,07/01/2002,1,2.5,100.0,2.5,rita_acfr_2025
+xenia,city,09/01/2020,0,,,,rita_acfr_2025
+xenia jedd 1,special_district,09/01/2020,0,,,,rita_acfr_2025
+yellow springs,village,02/10/2003,1,1.5,100.0,1.5,rita_acfr_2025
+youngstown,city,01/01/2006,1,2.75,100.0,2.75,rita_acfr_2025
+youngstown girard jedd,special_district,,0,2.75,,,rita_acfr_2025
