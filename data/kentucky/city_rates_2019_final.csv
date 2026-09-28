@@ -1,0 +1,79 @@
+city,county,rate_2019_pct,wage_cap,evidence_class,only_county,tax_existed_2019,rate_2019_evidence,rate_2019_quote,cap_2019_evidence
+Florence,Boone,2.0,132900.0,direct_2019,,yes,verified_2019,"NFC TAXES 19-02 (published 2019-02-13) and 19-37 (published 2019-12-31): ""Florence ... 2.00 2 ... 2.00 2 ... DS""; footnote ""Maximum withholding wage base of $132,900""",verified: NFC 2019 lists caps only for Covington/Florence
+Union,Boone,0.0,,pilot_verified,,no,verified_2019,,verified
+Walton,Boone,0.0,,pilot_verified,,no,verified_2019,,verified
+Bromley,Kenton,1.0,,pilot_verified,,yes,verified_2019,,verified
+Covington,Kenton,2.45,132900.0,direct_2019,,yes,verified_2019,"NFC TAXES 19-02 (published 2019-02-13) and 19-37 (published 2019-12-31): ""Covington ... 2.45 1 ... 2.45 1 ... DS""; footnote ""Maximum withholding wage base of $132,900""",verified: NFC 2019 lists caps only for Covington/Florence
+Crescent Springs,Kenton,1.0,,pilot_verified,,yes,verified_2019,,verified
+Crestview Hills,Kenton,1.15,132900.0,pilot_verified,,yes,verified_2019,,verified
+Edgewood,Kenton,1.0,,pilot_verified,,yes,verified_2019,,verified
+Elsmere,Kenton,1.25,,pilot_verified,,yes,verified_2019,,verified
+Erlanger,Kenton,1.5,,pilot_verified,,yes,verified_2019,,verified
+Fort Mitchell,Kenton,1.25,,pilot_verified,,yes,verified_2019,,verified
+Fort Wright,Kenton,1.15,132900.0,pilot_verified,,yes,verified_2019,,verified
+Independence,Kenton,1.25,,pilot_verified,,yes,verified_2019,,verified
+Lakeside Park,Kenton,1.0,,pilot_verified,,yes,verified_2019,,verified
+Ludlow,Kenton,1.5,,pilot_verified,,yes,verified_2019,,verified
+Park Hills,Kenton,1.5,50000.0,pilot_verified,,yes,verified_2019,,verified
+Ryland Heights,Kenton,1.0,,pilot_verified,,yes,verified_2019,,verified
+Taylor Mill,Kenton,2.0,,pilot_verified,,yes,verified_2019,,verified
+Villa Hills,Kenton,1.5,,pilot_verified,,yes,verified_2019,,verified
+Fort Thomas,Campbell,1.25,,pilot_verified,,yes,verified_2019,,verified
+Alexandria,Campbell,1.5,132900.0,pilot_verified,,yes,verified_2019,,verified
+Cold Spring,Campbell,1.0,132900.0,pilot_verified,,yes,verified_2019,,verified
+Southgate,Campbell,2.5,,pilot_verified,,yes,verified_2019,,verified
+Highland Heights,Campbell,1.0,100000.0,pilot_verified,,yes,verified_2019,,verified
+Newport,Campbell,2.5,132900.0,pilot_verified,,yes,carried_later_rate,,unknown
+Bellevue,Campbell,2.5,,pilot_verified,,yes,carried_later_rate,,unknown
+Dayton,Campbell,2.0,,pilot_verified,,yes,verified_2019,,verified
+Melbourne,Campbell,0.0,,pilot_verified,,no,verified_2019,,verified
+Woodlawn,Campbell,0.0,,pilot_verified,,no,verified_2019,,verified
+Dry Ridge,Grant,1.25,,pilot_verified,,yes,verified_2019,,verified
+Williamstown,Grant,0.0,,pilot_verified,,no,verified_2019,,verified
+Falmouth,Pendleton,0.0,,pilot_verified,,no,verified_2019,,verified
+Elizabethtown,Hardin,1.35,,direct_2019,,yes,verified_2019,"Owensboro Times 2019-05-17: ""According to the state government's website ... Hardin County/Elizabethtown (1.35 percent)"" (secondary)",unknown
+La Grange,Oldham,1.0,,pilot_bridge,,yes,carried_later_rate,,unknown
+Maysville,Mason,1.99,,pilot_bridge,,yes,carried_later_rate,,unknown
+Jeffersontown,Jefferson,1.0,,direct_2019,,yes,verified_2019,"captured 2019-07-16: ""Tax Rate 1% of gross wage. No exemptions. No minimum or maximum amount.""; FAQ captured 2019-08-20: ""An employee earning a wage within the City of Jeffersontown is subject to the Jeffersontown occupational tax and the Louisville Metro occupational tax.""","verified: ""No minimum or maximum amount"" (2019 capture)"
+Bowling Green,Warren,1.85,,direct_2019,,yes,verified_2019,"NFC TAXES 19-02 (published 2019-02-13) and 19-37 (published 2019-12-31): ""Bowling Green ... 1.85 ... 1.85 ... DS""; bgky.org captured 2019-01-19: ""The occupational license tax rate is 1.85%.""; Warren County 2019 description: ""City of Bowling Green Occupational Tax-1.85%""",verified: NFC 2019 lists caps only for Covington/Florence
+Watterson Park,Jefferson,0.0,,current_only,,unknown,unknown,,
+Georgetown,Scott,1.0,,direct_2019,,yes,verified_2019,"GSCRC 2017 PR100 instructions (captured 2018-05-08): ""the City of Georgetown, Kentucky has imposed an occupational license tax measured by 1.00% of all compensation paid or payable in the City""",unknown
+St. Matthews,Jefferson,0.75,,current_only,,unknown,carried_later_rate,,unknown
+Owensboro,Daviess,1.78,,direct_2019,,yes,verified_2019,"NFC TAXES 19-02 (published 2019-02-13) and 19-37 (published 2019-12-31): ""Owensboro ... 1.78 ... 1.78 ... DS""",verified: NFC 2019 lists caps only for Covington/Florence
+Frankfort,Franklin,1.95,,direct_2019,,yes,verified_2019,"NFC TAXES 19-02 (published 2019-02-13) and 19-37 (published 2019-12-31): ""Frankfort ... 1.95 ... 1.95 ... DS""",verified: NFC 2019 lists caps only for Covington/Florence
+Richmond,Madison,2.0,,direct_2019,,yes,verified_2019,"NFC TAXES 19-02 (published 2019-02-13) and 19-37 (published 2019-12-31): ""Richmond ... 2.00 ... 2.00 ... DS""",verified: NFC 2019 lists caps only for Covington/Florence
+Paducah,McCracken,2.0,,direct_2019,,yes,verified_2019,"NFC TAXES 19-02 (published 2019-02-13) and 19-37 (published 2019-12-31): ""Paducah (voluntary) ... 2.00 ... 2.00 ... DS""; paducahky.gov captured 2018-03-22: ""On September 25, 2007, the Board of Commissioners voted to permanently amend the ordinance to maintain the payroll tax at 2.0 percent.""",verified: NFC 2019 lists caps only for Covington/Florence
+Lyndon,Jefferson,0.75,,current_only,,unknown,carried_later_rate,,unknown
+Nicholasville,Jessamine,1.5,,direct_2019,,yes,verified_2019,"city quarterly return captured 2019-10-29: ""Current License Fee - 1.5% (line 3 X .015)""; code Sec. 27-3: ""Effective January 1, 2009, one and one-half percent (1.5%) of all wages"", history ""(Ord. No. 709-2008 ...; Ord. No. 726-2008 ...; Ord. No. 923-2015, 8-17-15)""",unknown
+Shepherdsville,Bullitt,1.5,,direct_2019,,yes,verified_2019,"city Employer's Return of License Fee Withheld, captured 2020-09-25: ""Tax Due this period at 1.5%""; council minutes 2017-05-08 grant an abatement ""reduction of the occupational tax to .5% ... a reduction of 1%"" (implying 1.5%); Pioneer News 2022-07-06: ""Instead of seeing the payroll tax deduction increasing from 1.5 percent to 2 percent""; the 2% in the current code dates from Ord. 022-052 (2022-05-23)",unknown
+Somerset,Pulaski,0.6,,historical_bridge,,yes,carried_later_rate,,unknown
+Bardstown,Nelson,1.0,,historical_bridge,,yes,carried_later_rate,,unknown
+Hopkinsville,Christian,1.95,,current_only,,unknown,carried_later_rate,,unknown
+Danville,Boyle,1.9,,historical_bridge,,yes,carried_later_rate,,unknown
+London,Laurel,1.0,,historical_bridge,,yes,carried_later_rate,,unknown
+Shelbyville,Shelby,1.5,,historical_bridge,,yes,verified_2019,"§ 60.003: ""One and one-half percent (1.5%) of all wages and compensation paid or payable in the city""; history ""(Ord. 2008-06-05(B), passed 6-5-08; Am. Ord. 2010-04-15, passed 4-15-10)""",unknown
+Glasgow,Barren,1.5,,historical_bridge,,yes,carried_later_rate,,unknown
+Madisonville,Hopkins,1.5,,historical_bridge,,yes,carried_later_rate,,unknown
+Middletown,Jefferson,0.0,,historical_bridge,,no,verified_2019,,
+Berea,Madison,2.0,,historical_bridge,,yes,carried_later_rate,,unknown
+Henderson,Henderson,1.29,,direct_2019,,yes,verified_2019,,unknown
+Shively,Jefferson,1.5,,historical_bridge,,yes,carried_later_rate,,unknown
+Pikeville,Pike,2.0,,historical_bridge,,yes,carried_later_rate,,unknown
+Ashland,Boyd,2.0,,current_only,,unknown,carried_later_rate,,unknown
+Mount Washington,Bullitt,1.0,,current_only,,unknown,carried_later_rate,,unknown
+Radcliff,Hardin,2.0,,historical_bridge,,yes,carried_later_rate,,unknown
+Versailles,Woodford,1.5,,historical_bridge,,yes,verified_2019,"§ 110.03(B)(1): ""For the first two million dollars ($2,000,000.00) reported, the rate shall be one and one-half percent""; history ""(Ord. 2007-25 ...; Am. Ord. 2011-9 ...; Am. Ord. 2011-29 ...; Am. Ord. 2018-18, passed 6-19-18)"", no amendment after mid-2018",unknown
+Murray,Calloway,1.0,,historical_bridge,,yes,carried_later_rate,,unknown
+Lebanon,Marion,1.0,,current_only,,unknown,carried_later_rate,,unknown
+Harrodsburg,Mercer,1.0,,historical_bridge,,yes,carried_later_rate,,unknown
+Hillview,Bullitt,1.8,,historical_bridge,,yes,carried_later_rate,,unknown
+Paris,Bourbon,1.5,,current_only,,unknown,carried_later_rate,,unknown
+Morehead,Rowan,1.5,,historical_bridge,,yes,carried_later_rate,,unknown
+Franklin,Simpson,1.0,,current_only,,unknown,carried_later_rate,,unknown
+Campbellsville,Taylor,1.0,,historical_bridge,,yes,carried_later_rate,,unknown
+Hazard,Perry,1.25,,historical_bridge,,yes,carried_later_rate,,unknown
+Leitchfield,Grayson,1.2,,direct_2019,,yes,verified_2019,,unknown
+Calvert City,Marshall,0.5,,historical_bridge,,yes,carried_later_rate,,unknown
+Corbin,Whitley,1.0,,historical_bridge,Knox,yes,carried_later_rate,,unknown
+Russellville,Logan,2.0,,historical_bridge,,yes,carried_later_rate,,unknown
+Winchester,Clark,2.0,,direct_2019,,yes,verified_2019,"city page captured 2020-08-04: ""The City of Winchester has a 2.0% occupational license fee (effective October 1, 2010) on gross wages earned in the city""; 2.15% only from 10/2024",no cap stated
