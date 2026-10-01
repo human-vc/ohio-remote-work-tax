@@ -1,25 +1,25 @@
 city,resident_rate,nonresident_rate,evidence_class
 Detroit,2.4,1.2,direct_2019
-East Lansing,1.0,0.5,historical_bridge
-Saginaw,1.5,0.75,direct_2019
-Highland Park,2.0,1.0,direct_2019
-Albion,1.0,0.5,direct_2019
-Big Rapids,1.0,0.5,search_snippet_2019
-Hamtramck,1.0,0.5,direct_2019
-Muskegon,1.0,0.5,direct_2019
-Grand Rapids,1.5,0.75,historical_bridge
-Lansing,1.0,0.5,historical_bridge
-Battle Creek,1.0,0.5,search_snippet_2019
-Jackson,1.0,0.5,search_snippet_2019
-Flint,1.0,0.5,assumed_no_change
-Pontiac,1.0,0.5,assumed_no_change
+East Lansing,1.0,0.5,direct_2019_cf1065_appendix_a
+Saginaw,1.5,0.75,direct_2019_cf1065_appendix_a
+Highland Park,2.0,1.0,direct_2019_cf1065_appendix_a
+Albion,1.0,0.5,direct_2019_cf1065_appendix_a
+Big Rapids,1.0,0.5,direct_2019_cf1065_appendix_a
+Hamtramck,1.0,0.5,direct_2019_cf1065_appendix_a
+Muskegon,1.0,0.5,direct_2019_cf1065_appendix_a
+Grand Rapids,1.5,0.75,direct_2019_cf1065_appendix_a
+Lansing,1.0,0.5,direct_2019_cf1065_appendix_a
+Battle Creek,1.0,0.5,direct_2019_cf1065_appendix_a
+Jackson,1.0,0.5,direct_2019_cf1065_appendix_a
+Flint,1.0,0.5,direct_2019_cf1065_appendix_a
+Pontiac,1.0,0.5,direct_2019_cf1065_appendix_a
 Hudson,1.0,0.5,assumed_no_change
-Ionia,1.0,0.5,assumed_no_change
-Lapeer,1.0,0.5,assumed_no_change
-Port Huron,1.0,0.5,assumed_no_change
-Portland,1.0,0.5,assumed_no_change
-Walker,1.0,0.5,assumed_no_change
-Springfield,1.0,0.5,assumed_no_change
-Benton Harbor,1.0,0.5,assumed_no_change
-Grayling,1.0,0.5,assumed
-Muskegon Heights,1.0,0.5,assumed
+Ionia,1.0,0.5,direct_2019_cf1065_appendix_a
+Lapeer,1.0,0.5,direct_2019_cf1065_appendix_a
+Port Huron,1.0,0.5,direct_2019_cf1065_appendix_a
+Portland,1.0,0.5,direct_2019_cf1065_appendix_a
+Walker,1.0,0.5,direct_2019_cf1065_appendix_a
+Springfield,1.0,0.5,direct_2019_cf1065_appendix_a
+Benton Harbor,1.0,0.5,direct_2019_cf1065_appendix_a
+Grayling,1.0,0.5,direct_2019_cf1065_appendix_a
+Muskegon Heights,1.0,0.5,direct_2019_cf1065_appendix_a

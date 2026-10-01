@@ -113,7 +113,7 @@ add('app:comparison', 'Open items', 'largest change in worker share, points', ma
 
 mi = pd.read_csv('data/michigan/mi_rate_status_2019.csv')
 add('app:comparison', 'Michigan cities levying the tax', 'count', len(mi))
-add('app:comparison', 'Michigan rates from undated or earlier sources or the statutory schedule', 'count', int(mi.evidence_class.isin(['assumed_no_change', 'assumed']).sum()))
+add('app:comparison', 'Michigan rates from 2019 documents', 'count', int(mi.evidence_class.str.startswith('direct_2019').sum()))
 
 out = pd.DataFrame(rows, columns=['exhibit', 'row', 'measure', 'low', 'high'])
 out[['low', 'high']] = out[['low', 'high']].astype(float).round(4)
