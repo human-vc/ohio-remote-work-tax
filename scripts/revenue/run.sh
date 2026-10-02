@@ -31,5 +31,16 @@ OUT_TAG=p85_2016 SAVE_VCV=1 SAMPLE=output/revenue/sample_preperiod_2012.csv $PY 
 OUT_TAG=p85_2012 SAVE_VCV=1 SAMPLE=output/revenue/sample_preperiod_2012.csv YEAR_START=2012 COLLECTIONS=output/revenue/rita_member_collections_2006_2025.csv $PY $M 1999 > $L/model_p85_2012.log 2>&1
 OUT_TAG=altnorm_121 SAMPLE=output/revenue/sample_altnorm_121.csv $PY $M 1999 > $L/model_altnorm_121.log 2>&1
 OUT_TAG=altnorm_85_2012 SAMPLE=output/revenue/sample_altnorm_85.csv YEAR_START=2012 COLLECTIONS=output/revenue/rita_member_collections_2006_2025.csv $PY $M 1999 > $L/model_altnorm_85_2012.log 2>&1
+$PY scripts/revenue/mdr_components.py > $L/revenue_mdr_components.log 2>&1
+for c in total withholding wh_tax individual net_profit; do
+  OUT_TAG=mdr_$c YEAR_START=2017 COMPONENT=$c COMPONENT_FILE=output/revenue/components_mdr.csv $PY $M 999 > $L/model_mdr_$c.log 2>&1
+done
+for c in total_s wh_s ind_s np_s; do
+  OUT_TAG=mdr_$c NOLOG=1 YEAR_START=2017 COMPONENT=$c COMPONENT_FILE=output/revenue/components_mdr.csv $PY $M 999 > $L/model_mdr_$c.log 2>&1
+done
+OUT_TAG=mdr_cf_withholding SAMPLE=output/revenue/sample_with_potential.csv ADD_POTENTIAL=1 YEAR_START=2017 COMPONENT=withholding COMPONENT_FILE=output/revenue/components_mdr.csv $PY $M 999 > $L/model_mdr_cf_withholding.log 2>&1
+for c in withholding individual; do
+  OUT_TAG=mdr_nc_$c SAMPLE=output/revenue/sample_nocredit_zero.csv YEAR_START=2017 COMPONENT=$c COMPONENT_FILE=output/revenue/components_mdr.csv $PY $M 999 > $L/model_mdr_nc_$c.log 2>&1
+done
 $PY scripts/revenue/leave_one_out.py > $L/revenue_leave_one_out.log 2>&1
 Rscript scripts/revenue/honestdid.R > $L/revenue_honestdid.log 2>&1

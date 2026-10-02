@@ -11,11 +11,11 @@ if os.environ.get('AOS_OUTCOME'):
     if os.environ.get('AOS_MINUS_RITA'):
         Yr=rc[rc.year.isin(YEARS)].groupby(['stplc','year']).net_collections.sum(); Y=(Y/Yr).dropna()
 if os.environ.get('COMPONENT'):
-    cc=pd.read_csv('data/ohio/components_clean.csv'); cc['stplc']=cc.city.map(norm).map(pl.drop_duplicates('k').set_index('k').stplc)
+    cc=pd.read_csv(os.environ.get('COMPONENT_FILE','data/ohio/components_clean.csv')); cc['stplc']=cc.city.map(norm).map(pl.drop_duplicates('k').set_index('k').stplc)
     cc['year']=cc.year.astype(int); Y=cc[cc.year.isin(YEARS)].groupby(['stplc','year'])[os.environ['COMPONENT']].sum()
     S=S[S.index.isin(cc.stplc.dropna())]; print('COMPONENT',os.environ['COMPONENT'],'cities',len(S))
 d=pd.DataFrame([(i,t) for i in S.index for t in YEARS],columns=['stplc','year'])
-d['y']=np.log(d.set_index(['stplc','year']).index.map(lambda k: Y.get(k,np.nan)))
+_v=d.set_index(['stplc','year']).index.map(lambda k: Y.get(k,np.nan)); d['y']=np.asarray(_v,float) if os.environ.get('NOLOG') else np.log(_v)
 if os.environ.get('SOI_RATIO'):
     sw=pd.read_csv(os.environ.get('SOI_FILE','output/revenue/soi_place_wages_2016_2022.csv'),dtype={'stplc':str}).set_index('stplc'); sw.columns=[c.replace('.0','') for c in sw.columns]
     keep=sw.index[(sw[[str(y) for y in YEARS]].notna().all(1))&(sw.purity>=float(os.environ.get('PURITY','0')))]
@@ -96,9 +96,9 @@ for pre in ['Gain','Loss']:
     w=np.mean([row(f'{pre}_{y}') for y in POST],axis=0)[None,:]
     th=(w@beta).item(); se=np.sqrt(w@Vc@w.T).item(); s,p=wald_boot(w,cl_c,B,1)
     res.append((pre,'post mean '+'-'.join(map(str,POST)),th,se,th-tc*se,th+tc*se,p))
-    Wj=np.vstack([row(f'{pre}_{y}') for y in (2016,2017,2018)])
-    dj=Wj@beta; Fj=float(dj@np.linalg.pinv(Wj@Vc@Wj.T)@dj)/3
-    pF=1-stats.f.cdf(Fj,3,Gc-1); s2,pb=wald_boot(Wj,cl_c,B,2)
+    Wj=np.vstack([row(f'{pre}_{y}') for y in (2016,2017,2018) if y in YEARS])
+    dj=Wj@beta; Fj=float(dj@np.linalg.pinv(Wj@Vc@Wj.T)@dj)/len(dj)
+    pF=1-stats.f.cdf(Fj,len(dj),Gc-1); s2,pb=wald_boot(Wj,cl_c,B,2)
     res.append((pre,'joint pre 2016-18 = 0 (F)',Fj,np.nan,np.nan,np.nan,pb))
     print(f'{pre} joint pre-test: F={Fj:.2f} analytic p={pF:.3f} wild-boot p={pb:.3f}')
     PRE=[y for y in YEARS if y<2019]

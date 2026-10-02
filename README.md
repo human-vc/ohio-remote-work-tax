@@ -27,3 +27,5 @@ This runs, in order:
 4. `scripts/states/run.sh`: Michigan, Pennsylvania and Kentucky calculations
 
 Results are written to `output/` as CSV and JSON, with console logs in `output/logs/`.
+
+`data/ohio/rita_mdr_cash_ytd.csv` holds the cash year-to-date components from the Regional Income Tax Agency's November distribution reports for 2019 to 2024, obtained by public records request. `scripts/revenue/mdr_parse.py <pdf folder>` rebuilds it from the report PDFs.
