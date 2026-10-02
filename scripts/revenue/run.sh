@@ -43,4 +43,8 @@ for c in withholding individual; do
   OUT_TAG=mdr_nc_$c SAMPLE=output/revenue/sample_nocredit_zero.csv YEAR_START=2017 COMPONENT=$c COMPONENT_FILE=output/revenue/components_mdr.csv $PY $M 999 > $L/model_mdr_nc_$c.log 2>&1
 done
 $PY scripts/revenue/leave_one_out.py > $L/revenue_leave_one_out.log 2>&1
-Rscript scripts/revenue/honestdid.R > $L/revenue_honestdid.log 2>&1
+if command -v Rscript >/dev/null 2>&1; then
+  Rscript scripts/revenue/honestdid.R > $L/revenue_honestdid.log 2>&1
+else
+  echo "Rscript not found: skipping scripts/revenue/honestdid.R"
+fi
